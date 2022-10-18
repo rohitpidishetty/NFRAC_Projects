@@ -1,0 +1,2227 @@
+{
+  "2019": {
+    "project-1": {
+      "link": "https://www.instagram.com/tv/B8b45rwhEJ2/?utm_source=ig_web_copy_link",
+      "image": "c.png",
+      "title": "01. Grade point average calculator using C (System EXE)",
+      "domain": [
+        "c",
+        "gpa",
+        "grade point average",
+        "ggpa",
+        "marks",
+        "calculator",
+        "calculate",
+        "points",
+        "point"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "This project is built using C language to Calculate your marks easily and instantly without performing any computation manually. All that you have to do is just enter your credit score and hit on submit button."
+    },
+    "project-2": {
+      "link": "https://www.instagram.com/tv/B8b45rwhEJ2/?utm_source=ig_web_copy_link",
+      "image": "c.png",
+      "title": "02. Grade point average calculator using advanced methods in C (System EXE)",
+      "domain": [
+        "c",
+        "gpa",
+        "grade point average",
+        "ggpa",
+        "marks",
+        "calculator",
+        "calculate",
+        "points",
+        "point"
+      ],
+      "relatedImages": [
+        "Images/p19c15.png",
+        "Images/p19c16.png",
+        "Images/p19c17.png",
+        "Images/p19c18.png"
+      ],
+      "description": "This project is built using C language with advanced methods, to Calculate your marks easily and instantly without performing any computation manually. All that you have to do is just enter your credit score and hit on submit button."
+    },
+    "project-3": {
+      "link": "https://www.instagram.com/p/B7Wl4AOhEp-/?utm_source=ig_web_copy_link",
+      "image": "/C/AI.png",
+      "title": "03. Artificial intelligence using C Language",
+      "domain": [
+        "c",
+        "ai",
+        "artificial",
+        "intelligence",
+        "assistant"
+      ],
+      "relatedImages": [
+        "Images/p19c9.png",
+        "Images/p19c10.png",
+        "Images/p19c11.png",
+        "Images/p19c12.png",
+        "Images/p19c13.png",
+        "Images/p19c14.png"
+      ],
+      "description": "My Assistant Software, made to interact with couple of things that humans are concerned about..!"
+    },
+    "project-4": {
+      "link": "https://www.instagram.com/tv/B8b45rwhEJ2/?utm_source=ig_web_copy_link",
+      "image": "cpp.png",
+      "title": "04. Grade point average calculator using C++ (System EXE)",
+      "domain": [
+        "c++",
+        "cpp",
+        "gpa",
+        "grade point average",
+        "ggpa",
+        "marks",
+        "calculator",
+        "calculate",
+        "points",
+        "point"
+      ],
+      "relatedImages": [
+        "Images/p19c5.png",
+        "Images/p19c6.png",
+        "Images/p19c7.png",
+        "Images/p19c8.png"
+      ],
+      "description": "This project is built using C++ language to Calculate your marks easily and instantly without performing any computation manually. All that you have to do is just enter your credit score and hit on submit button."
+    },
+    "project-5": {
+      "link": "#",
+      "image": "c.png",
+      "title": "05. Automatic IceCreame shop (The future is here Prototype)",
+      "domain": [
+        "c",
+        "shop",
+        "ice"
+      ],
+      "relatedImages": [
+        "Images/p19c19.png",
+        "Images/p19c20.png",
+        "Images/p19c21.png",
+        "Images/p19c22.png",
+        "Images/p19c23.png",
+        "Images/p19c24.png",
+        "Images/p19c25.png",
+        "Images/p19c26.png"
+      ],
+      "description": "A prototype for the future of ice cream stalls."
+    },
+    "project-6": {
+      "link": "https://www.instagram.com/tv/B8b45rwhEJ2/?utm_source=ig_web_copy_link",
+      "image": "python.png",
+      "title": "06. Grade point average calculator using Python",
+      "domain": [
+        "python",
+        "gpa",
+        "grade point average",
+        "ggpa",
+        "marks",
+        "calculator",
+        "calculate",
+        "points",
+        "point",
+        "py"
+      ],
+      "relatedImages": [
+        "Images/p19c7.png"
+      ],
+      "description": "This project is built using Python language to Calculate your marks easily and instantly without performing any computation manually. All that you have to do is just enter your credit score and hit on submit button."
+    },
+    "project-7": {
+      "link": "https://www.instagram.com/tv/B8b45rwhEJ2/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "07. Grade point average calculator using Java (System EXE)",
+      "domain": [
+        "java",
+        "gpa",
+        "grade point average",
+        "ggpa",
+        "marks",
+        "calculator",
+        "calculate",
+        "points",
+        "point"
+      ],
+      "relatedImages": [
+        "Images/p19c27.png",
+        "Images/p19c28.png",
+        "Images/p19c29.png",
+        "Images/p19c30.png",
+        "Images/p19c31.png"
+      ],
+      "description": "This project is built using Java language to Calculate your marks easily and instantly without performing any computation manually. All that you have to do is just enter your credit score and hit on submit button."
+    },
+    "project-8": {
+      "link": "https://play.google.com/store/apps/details?id=com.gpacal.jntuhgpacalculator",
+      "image": "/Android/jntuh_gpa_calculator_logo.png",
+      "title": "08. Grade point average calculator using APK (Android Development)",
+      "domain": [
+        "java",
+        "application",
+        "mobile",
+        "apk",
+        "android",
+        "gpa",
+        "grade point average",
+        "ggpa",
+        "marks",
+        "calculator",
+        "calculate",
+        "points",
+        "point"
+      ],
+      "relatedImages": [
+        "Images/p19c32.png",
+        "Images/p19c33.png",
+        "Images/p19c34.png",
+        "Images/p19c35.png",
+        "Images/p19c36.png",
+        "Images/p19c37.png",
+        "Images/p19c38.png",
+        "Images/p19c38.png",
+        "Images/p19c39.png",
+        "Images/p19c40.jpg"
+      ],
+      "description": "This is a mobile application which helps users to Calculate your marks easily and instantly without performing any computation manually. All that you have to do is just enter your credit score and hit on submit button."
+    }
+  },
+  "2020": {
+    "project-1": {
+      "link": "https://www.instagram.com/tv/B8b45rwhEJ2/?utm_source=ig_web_copy_link",
+      "image": "cpp.png",
+      "title": "01. Grade point average calculator using complex methods in C++ (System EXE)",
+      "domain": [
+        "cpp",
+        "gpa",
+        "grade point average",
+        "marks",
+        "calculate",
+        "calculator",
+        "points",
+        "point",
+        "c++"
+      ],
+      "relatedImages": [
+        "Images/p19c41.png",
+        "Images/p19c42.png",
+        "Images/p19c43.png"
+      ],
+      "description": "This project is built using C++ language, with complex methods to Calculate your marks easily and instantly without performing any computation manually. All that you have to do is just enter your credit score and hit on submit button."
+    },
+    "project-2": {
+      "link": "https://www.instagram.com/p/B7gxmYpBMYK/?utm_source=ig_web_copy_link",
+      "image": "/Python/AI.png",
+      "title": "02. Advanced Artificial Intelligence using python(RONY the Robot)",
+      "domain": [
+        "python",
+        "ai",
+        "artificial",
+        "ml",
+        "machine",
+        "learning",
+        "intelligence",
+        "rony",
+        "robot",
+        "assistant",
+        "py"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "An artificially simulated bot, that mimics human behaviour. (NLP + Artificial Intelligence). It dose many things such as controlling my PC and performs tasks according to the commands given to it. One such example is, it can calculate my cgpa."
+    },
+    "project-3": {
+      "link": "https://www.instagram.com/p/B8_8GFjh7pb/?utm_source=ig_web_copy_link",
+      "image": "python.png",
+      "title": "03. RONY plays Rock Paper Scissors",
+      "domain": [
+        "python",
+        "ai",
+        "artificial",
+        "intelligence",
+        "machine",
+        "learning",
+        "ml",
+        "rock",
+        "paper",
+        "py",
+        "game",
+        "games"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Rony, the system assistant plays Rock Paper Scissors game with the user."
+    },
+    "project-4": {
+      "link": "https://www.instagram.com/p/B9AAR6ThejW/?utm_source=ig_web_copy_link",
+      "image": "python.png",
+      "title": "04. Rock Paper Scissors python",
+      "domain": [
+        "python",
+        "rock",
+        "paper",
+        "game",
+        "games",
+        "py"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "This software is built using Python, which plays rock, paper, scissors game."
+    },
+    "project-5": {
+      "link": "https://www.instagram.com/p/B9E3XgcjY0x/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "05. Rock Paper Scissors Java",
+      "domain": [
+        "java",
+        "rock",
+        "paper",
+        "game",
+        "games"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "This software is built using Java, which plays rock, paper, scissors game."
+    },
+    "project-6": {
+      "link": "https://www.instagram.com/p/B9LlTjmjS-N/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "06. Payment gateway prototype using Java",
+      "domain": [
+        "java",
+        "upi",
+        "payment"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "A simple prototype of payment gateway, showing how the bank bakance will be reflected after performing a transaction."
+    },
+    "project-7": {
+      "link": "https://www.instagram.com/p/B934nrEDA_F/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "07. Java packages for Insertion and Sorting",
+      "domain": [
+        "java",
+        "sorting",
+        "api",
+        "package",
+        "packages",
+        "interface",
+        "apis"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Java packages, that help in increasing your fedility of programming, as it has insertion and sorting package inbuilt in it. All you have to do is just use this package inspite of writing sorting or insertion algorithm."
+    },
+    "project-8": {
+      "link": "https://www.instagram.com/tv/B-H4Lz7DfJH/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "08. Data Encryption Algorithm (RADEA)",
+      "domain": [
+        "java",
+        "data",
+        "encryption",
+        "security",
+        "radea",
+        "algorithm",
+        "cipher",
+        "encrypt",
+        "secured"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "It's basically an Algorithm to ensure data security via internet!!. It has embedded tools to encrypt and decrypt the string init.."
+    },
+    "project-9": {
+      "link": "https://www.instagram.com/p/B-U7o0XjE0Z/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "09. XOXO game code using Java",
+      "domain": [
+        "java",
+        "xoxo",
+        "game",
+        "games"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "XOXO game built using JAVA that mimics the XO Table!!"
+    },
+    "project-10": {
+      "link": "https://www.instagram.com/tv/B-ujiIijqWo/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "10. Rohit Acharya's Data Encryption Algorithm(RADE)",
+      "domain": [
+        "java",
+        "rade",
+        "algorithm",
+        "security",
+        "data",
+        "encryption",
+        "encrypt",
+        "secured",
+        "cipher",
+        "ciphering"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "I've discussed a lot on how to cipher/encrypt your data that is to be transferred via internet securely and deciphered using some special decoding tools.. RADE_Cipher -> encryption tool kit. RADE_DeCipher -> decryption tool kit. Cipher(1 arg) and DeCipher(1 arg) are the tools provided.."
+    },
+    "project-11": {
+      "link": "https://play.google.com/store/apps/details?id=com.college.mrit",
+      "image": "/Android/MRIT.png",
+      "title": "11. MRIT College application built using APK (Android Development)",
+      "domain": [
+        "android",
+        "gpa",
+        "calculate",
+        "calculator",
+        "application",
+        "apk",
+        "java",
+        "marks",
+        "mobile",
+        "apps",
+        "applications",
+        "mrit",
+        "college",
+        "technology"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Exclusively for MRIT students..!!, * MRIT app now gives you News Update about college, * You can now get access to all the notes and class works easily anywhere at any time, * You can stalk on college achievements.., * You can even get an update of all the things and notices about College.."
+    },
+    "project-12": {
+      "link": "https://www.instagram.com/tv/B_UcQUUDD6k/?utm_source=ig_web_copy_link",
+      "image": "/Android/Authentication.png",
+      "title": "12. Authentication/Registration Application using APK (Android Development)",
+      "domain": [
+        "android",
+        "java",
+        "apk",
+        "authentication",
+        "auth",
+        "authenticator",
+        "mobile"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Sign Up/In User Interface. Ensuring Security ❤️, So you can register yourself here, Sign up to create your account, And sign in to log in ."
+    },
+    "project-13": {
+      "link": "https://www.instagram.com/tv/B_XA1-UDciq/?utm_source=ig_web_copy_link",
+      "image": "/Android/travelerGuide.png",
+      "title": "13. Travel in style Application using APK (Android Development)",
+      "domain": [
+        "java",
+        "android",
+        "travel",
+        "apk",
+        "guide",
+        "traveller",
+        "mobile"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Love to travel ?? Get a guide for free...... • New app regarding travelling and exploring place that you love to, you can find related information about all the places in india."
+    },
+    "project-14": {
+      "link": "https://www.instagram.com/p/B_rr9_6jwl5/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "14. Automated teller machine using Java",
+      "domain": [
+        "java",
+        "atm",
+        "teller"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Automated Teller Machine..,Software using JAVA. Simple ATM software built using JAVA which reflects your Bank Balance.. And secured with Credentials."
+    },
+    "project-15": {
+      "link": "#",
+      "image": "java.png",
+      "title": "15. Automated time table generator using Java",
+      "domain": [
+        "java",
+        "time",
+        "table",
+        "generator"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Generate a time table automatically using this software, by giving in the subject names to this software, it sorts all the subjects given to it in a time table manner i.e for every day and every hour according to the schedule."
+    },
+    "project-16": {
+      "link": "https://www.instagram.com/p/B_urVhSjlmj/?utm_source=ig_web_copy_link",
+      "image": "python.png",
+      "title": "16. Automated teller machine using Python",
+      "domain": [
+        "python",
+        "atm",
+        "teller",
+        "py"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "ATM software using Python, which even sends a notification when your at risk !"
+    },
+    "project-17": {
+      "link": "https://www.instagram.com/tv/B_wnsoDjOQu/?utm_source=ig_web_copy_link",
+      "image": "python.png",
+      "title": "17. ATM based on Artificial Intelligence (Future Prototype)",
+      "domain": [
+        "python",
+        "ai",
+        "artificial",
+        "intelligence",
+        "ml",
+        "machine",
+        "learning",
+        "teller",
+        "atm",
+        "py"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "ATM based on Artificial Intelligence(Prototype), A voice controlled AMT based on Artificial Intelligence, the idea of 'What if AMTs work on AI' ❤️The future ....."
+    },
+    "project-18": {
+      "link": "https://www.instagram.com/tv/CAjuPPnDzdv/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "18. Rohit Acharya's Code Cracker Algorithm(RACCA)",
+      "domain": [
+        "java",
+        "cca",
+        "cracker",
+        "algorithm",
+        "hack",
+        "hacker",
+        "hacking",
+        "cracking"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "This algorithm generates a set of passwords based on the target's tastes, likes, names, birthdays, etc. These passwords will be exported to the Step-2 process, an algorithm which works on automation principle and helps to crack the password of the target by entering the password into the target's password feild continuously until the account is cracked."
+    },
+    "project-18-a": {
+      "link": "https://www.instagram.com/tv/CAjuPPnDzdv/?utm_source=ig_web_copy_link",
+      "image": "python.png",
+      "title": "18 (a) Cracked Facebook with CCA integrated with Python input automation code",
+      "domain": [
+        "python",
+        "cca",
+        "cracker",
+        "algorithm",
+        "hack",
+        "hacker",
+        "hacking",
+        "cracking"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "A step-2 process of CCA, which hits the password until the account is cracked. • Level 1 attack, • Cyber attacks, Disclaimer : this video is just an awareness clip, not to encourage such cyber attacks!!"
+    },
+    "project-19": {
+      "link": "https://www.instagram.com/tv/CAnJEoeDwyl/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "19. Complex password generator using Java, enabled package",
+      "domain": [
+        "java",
+        "password",
+        "complex",
+        "api",
+        "package",
+        "packages",
+        "passwords",
+        "keys",
+        "generator",
+        "secured",
+        "security"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Password🔐 Generator using JAVA❤️, Generating passwords with special characters. So that u have a least chance of getting into problems..👍🏻!!"
+    },
+    "project-20": {
+      "link": "http://calc.xp3.biz/FoodiesStop.html",
+      "image": "hc.png",
+      "title": "20. FoodiesStop & Spot (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "foodies",
+        "foodie"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "FoodiesStop & Spot. Simple (front-end)UI for pizza centre."
+    },
+    "project-21": {
+      "link": "http://calc.xp3.biz/EducationSite.html#home",
+      "image": "hc.png",
+      "title": "21. Informative website (Computer evolution)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "computer",
+        "information",
+        "informative"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "“The Evolution of Computers”, Fully responsive screen❤️ (front-end)"
+    },
+    "project-22": {
+      "link": "http://calc.xp3.biz/HomePage.html",
+      "image": "jshc.png",
+      "title": "22. Grade point average calculator (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "gpa",
+        "grade point average",
+        "marks",
+        "calculate",
+        "calculator",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "This is a web application which helps users to Calculate your marks easily and instantly without performing any computation manually. All that you have to do is just enter your credit score and hit on submit button."
+    },
+    "project-23": {
+      "link": "http://calc.xp3.biz/ATM.html",
+      "image": "jshc.png",
+      "title": "23. Automated teller machine (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "atm",
+        "teller",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Automated Teller Machine software using JS, Simple ATM software built using JS embedded in HTML, which reflects your Bank Balance and updates on every TASK. Security protocols enabled ❤️"
+    },
+    "project-24": {
+      "link": "http://calc.xp3.biz/RADEA.html",
+      "image": "jshc.png",
+      "title": "24. RADE Algorithm (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "data",
+        "encryption",
+        "algorithm",
+        "security",
+        "radea",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "RADE Algorithm - “From a cause, For a cause”®️, DEA embedded in website using JS❤️, Cipher your data that is to be transferred via internet securely. Encrypted data has very less chances of being data breached. Low risk of being attacked, Decryption tools also embedded as well. Security protocols enabled."
+    },
+    "project-25": {
+      "link": "http://calc.xp3.biz/passwordGenerator.html",
+      "image": "jshc.png",
+      "title": "25. Secure Password generator (Web Application Development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "password",
+        "passwords",
+        "keys",
+        "generator",
+        "complex",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Password Generator, Generate a secure password to ensure low attacks via cyber ❤️"
+    },
+    "project-26": {
+      "link": "http://calc.xp3.biz/StudentDetails.html",
+      "image": "jshc.png",
+      "title": "26. Student admit card (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "student",
+        "id",
+        "card",
+        "identity",
+        "admit",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Generates a Identity card based on the user's details."
+    },
+    "project-27": {
+      "link": "http://calc.xp3.biz/RockPaperScissors.html",
+      "image": "jshc.png",
+      "title": "27. Rock paper scissors (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "rock",
+        "paper",
+        "game",
+        "games",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "A game played by a user and a computer. Built using JavaScript❤️🤩 Embedded into HTML+CSS.."
+    },
+    "project-28": {
+      "link": "http://calc.xp3.biz/VotingMachine.html",
+      "image": "jshc.png",
+      "title": "28. Voting machine (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "voting",
+        "machine",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "A voting machine software using js, it basically decides a person randomly, without biasing."
+    },
+    "project-29": {
+      "link": "http://calc.xp3.biz/Amazon.html",
+      "image": "jshc.png",
+      "title": "29. Amazon clone (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "amazon",
+        "clone",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Built a clone of amazon e-com website (Front-end)"
+    },
+    "project-30": {
+      "link": "http://calc.xp3.biz/ATtG.html",
+      "image": "jshc.png",
+      "title": "30. Automatic Time Table Generator (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "time",
+        "table",
+        "generator",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Generate a time table automatically using this software, by giving in the subject names to this software, it sorts all the subjects given to it in a time table manner i.e for every day and every hour according to the schedule."
+    },
+    "project-31": {
+      "link": "http://calc.xp3.biz/InstaLogin.html",
+      "image": "jshc.png",
+      "title": "31. Instagram clone (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "instagram",
+        "clone",
+        "insta",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Instagram Clone🤩 1. Dynamically upload a photo 2. You can even add a comment 3. Page fragmentation 4. Advanced CSS 5. Advanced HTML"
+    },
+    "project-32": {
+      "link": "http://calc.xp3.biz/fbPhone.html",
+      "image": "jshc.png",
+      "title": "32. Facebook clone (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "facebook",
+        "clone",
+        "fb",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Facebook clone ❤️❤️ Facebook page recreated using HTML,CSS Features : 1. Upload a picture dynamically on to feed 2. Comment on picture and even like it too 3. Add upto n number of photos on to feed with pic comments 4. Tell people “whats on your mind ?” 5. Login authentication enabled with security protocols 6. You can create an account or log in into an existing account 🤩"
+    },
+    "project-33": {
+      "link": "https://www.instagram.com/p/CIVQFx6jmP7/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "33. Dynamic calculator using Java",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "calculate",
+        "calculator",
+        "dynamic",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Dynamic calculator using JAVA❤️, Perform ‘n’ number of calculations using this code.."
+    },
+    "project-34": {
+      "link": "https://www.instagram.com/tv/CIckVaODInd/?utm_source=ig_web_copy_link",
+      "image": "java.png",
+      "title": "34. File database with methods, package enabled",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "fdb",
+        "file",
+        "database",
+        "files",
+        "javascript",
+        "js",
+        "api",
+        "package",
+        "packages",
+        "apis"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Glimpse of database, The very olden method of storing data that is on to files.. lets understand how data could be written on files and stored permanently and database could be deleted too. We can perform operations like • creating a database • updating the database • deleting the database My package javap.database.FileDataBase; If you want to work on this , dm me for the package 😁.."
+    },
+    "project-35": {
+      "link": "http://calc.xp3.biz/Calculator.html",
+      "image": "jshc.png",
+      "title": "35. Dynamic calculator (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "calculate",
+        "calculator",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Dynamic Calculator ❤️"
+    },
+    "project-36": {
+      "link": "https://fir-cbee9.web.app/",
+      "image": "amazon.png",
+      "title": "36. Amazon clone using ReactJs (Web application development)",
+      "domain": [
+        "react",
+        "react js",
+        "react javascript",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "amazon",
+        "clone",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Amazon Clone ❤️, Features > 1. Login security, authentication embedded to ensure security 2. Add to cart, basically adds items to your wishlist and shows you the number of items into cart on top right corner 3. Cart functionality, Aggregates the prices of all the cart items and shows and this is ❤️🤩 Deployed on firebase ❤️❤️"
+    },
+    "project-37": {
+      "link": "https://prime-c5529.web.app/",
+      "image": "amazon.png",
+      "title": "37. Amazon Prime clone using ReactJs (Web application development)",
+      "domain": [
+        "react",
+        "react js",
+        "react javascript",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "prime",
+        "clone",
+        "amazon",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Amazon Prime Clone❤️, Features init : 1. Authentication enabled 2. Page fragmentation , travel along x axis for more cool stuff. Travel along y axis for genre categories 3. Description about each and every movie 4. Add to watchlist, you can watch the movie later by adding movies into watchlist 5. Navigation bar ❤️ 6. Search engine, you can type in the name of a movie and grab information 7. Text Database embedded 8. Local storage exploited.. 9. Responsive and can be used in mobiles too.."
+    },
+    "project-38": {
+      "link": "https://music-fa622.web.app/",
+      "image": "amazon_music.jpg",
+      "title": "38. Amazon music clone using ReactJs (Web application development)",
+      "domain": [
+        "react",
+        "react js",
+        "react javascript",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "music",
+        "clone",
+        "amazon",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "de1. Login authentication 2. Search for song.(Album will be highlighted).. 3. Advanced CSS > page fragmentation 4. React JS❤️"
+    }
+  },
+  "2021": {
+    "project-1": {
+      "link": "https://www.instagram.com/tv/CJyF5RMDPt9/?utm_source=ig_web_copy_link",
+      "image": "node.png",
+      "title": "01. MERN project, Full Stack - Registration/Authentication using ReactJs (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "mern",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "full",
+        "stack",
+        "registration",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "1. Create an account (validation) 2. Login to your account 3. Change your password 4. Sign out your account 5. Delete your account 6. store your data into database and update or modify the data accordingly 7. FullStackProject"
+    },
+    "project-2": {
+      "link": "https://cird-lab.web.app/",
+      "image": "CodeInfinitylogo.png",
+      "title": "02. Code Infinity Research & Development Laboratory (CIRDL)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "cirdl",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "code",
+        "lab",
+        "laboratory",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Code infinity research and development laboratory main website."
+    },
+    "project-3": {
+      "link": "#",
+      "image": "react.png",
+      "title": "03. Authentication using React Native (IOS development)",
+      "domain": [
+        "react",
+        "react native",
+        "ios",
+        "apple",
+        "native"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Authentication using react native."
+    },
+    "project-4": {
+      "link": "#",
+      "image": "react.png",
+      "title": "04. Linking Webpage to  Application using React Native (Rock Paper Scissors Game) (IOS Development)",
+      "domain": [
+        "react",
+        "react native",
+        "native",
+        "ios",
+        "apple",
+        "native"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Rock Paper Scissors (IOS application)"
+    },
+    "project-5": {
+      "link": "https://jntuh-cgpa-calculator.web.app/",
+      "image": "jntuh_gpa_calculator_logo.png",
+      "title": "05. JNTUH GPA Calculator using React JavaScript (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "gpa",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "grade point average",
+        "calculate",
+        "calculate",
+        "marks",
+        "points",
+        "cgpa",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "This is a web application using React framework, which helps users to Calculate your marks easily and instantly without performing any computation manually. All that you have to do is just enter your credit score and hit on submit button"
+    },
+    "project-6": {
+      "link": "#",
+      "image": "java.png",
+      "title": "06. Dictionary sort package",
+      "domain": [
+        "java",
+        "api",
+        "package",
+        "sorting",
+        "sort",
+        "apis",
+        "packages"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Sorting package, which sorts according to alphabetical order."
+    },
+    "project-7": {
+      "link": "https://rohit-s-api-s.web.app/",
+      "image": "api.jpg",
+      "title": "07. Rohit'sJavaAPI's using React JavaScript (Web Application Development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "api",
+        "web",
+        "apis",
+        "sites",
+        "applications",
+        "development",
+        "package",
+        "packages",
+        "java",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "By using these packages you can basically save your time and imporvise your code by embedding the already written code by developers in CIRL. It has many advanced package codes, that are very easy to use and play with..Have fun!!"
+    },
+    "project-8": {
+      "link": "#",
+      "image": "/Android/GYM.png",
+      "title": "08. Gym Application (Client Project) (Android application development)",
+      "domain": [
+        "android",
+        "mobile",
+        "application",
+        "client",
+        "gym",
+        "clients",
+        "apps",
+        "app",
+        "applications"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Manages payments of the recipients and provides information about the gym to the users and about the users only to the owner."
+    },
+    "project-9": {
+      "link": "https://mac-931b1.web.app/",
+      "image": "apple.png",
+      "title": "09. Macintosh Operating system website using ReactJs (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "mac",
+        "os",
+        "operating",
+        "system",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Simple website that mimics mac's user interface."
+    },
+    "project-10": {
+      "link": "https://cirdo-elt.web.app/",
+      "image": "CodeInfinitylogo.png",
+      "title": "10. Code Infinity Research & Development Organization - Entry Level Test (CIRDO-ELT)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "test",
+        "entrance",
+        "cirdo",
+        "exam",
+        "code",
+        "cirdl",
+        "javascript",
+        "js",
+        "application",
+        "elt",
+        "cirdo-elt",
+        "entey",
+        "test"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Entrance exam to join CIRD Organization, where you can work with Er. P. Rohit Acharya."
+    },
+    "project-11": {
+      "link": "https://sql-db-3bb10.web.app/",
+      "image": "SQL_GUI.png",
+      "title": "11. Structured Query Language (Graphical User Interface Database) using ReactJs (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "sql",
+        "gui",
+        "database",
+        "query",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Create database, Update database, Read database and delete your data, using graphical user interface. You can even generate a json from the given data."
+    },
+    "project-12": {
+      "link": "https://sql-cli-a1332.web.app/",
+      "image": "sql.png",
+      "title": "12. Structured Query Language (Command Line Interface Database)using ReactJs (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "sql",
+        "cli",
+        "database",
+        "query",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Create database, Update database, Read database and delete your data, using comman line user interface. You can even generate a json from the given data."
+    },
+    "project-13": {
+      "link": "https://ui-design-727e2.web.app/",
+      "image": "react.png",
+      "title": "13. User Interface (UI/UX designing) using ReactJs (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "uiux",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Ui/UX programming"
+    },
+    "project-14": {
+      "link": "https://java-to-py-30de1.web.app",
+      "image": "java_to_py.png",
+      "title": "14. Java to Python Converting tool using ReactJs (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "java to python",
+        "to",
+        "convertor",
+        "java to",
+        "to python",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Write your first line of python without knowing python 😌.. Its possible folk😊 All you need to do is, access my software by clicking on the link provided and write a java code that is to be converted into python 🤫.."
+    },
+    "project-15": {
+      "link": "http://calc.xp3.biz/Calc.html",
+      "image": "jshc.png",
+      "title": "15. Advanced Dynamic calculator (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "calculate",
+        "calculator",
+        "dynamic",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Dynamic calculator."
+    },
+    "project-16": {
+      "link": "http://calc.xp3.biz/TypingMaster.html",
+      "image": "jshc.png",
+      "title": "16. Typing Master (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "typing",
+        "master",
+        "type",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "An application that is helpful in increasing your fidelity in typing and enhances your typing skills."
+    },
+    "project-17": {
+      "link": "http://calc.xp3.biz/Mat.html",
+      "image": "jshc.png",
+      "title": "17. Sudoku game (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "sudoku",
+        "game",
+        "games",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Sudoku game."
+    },
+    "project-18": {
+      "link": "http://calc.xp3.biz/Sudoku.html",
+      "image": "jshc.png",
+      "title": "18. Sudoku game powered by automation - AI (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "sudoku",
+        "game",
+        "games",
+        "ai",
+        "ml",
+        "artificial",
+        "intelligence",
+        "machine",
+        "learning",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Sudoku game played by Artificial Intelligence."
+    },
+    "project-19": {
+      "link": "http://calc.xp3.biz/Encryption.html",
+      "image": "jshc.png",
+      "title": "19. Secured Data Encryption Algorithm (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "encryption",
+        "data",
+        "secured",
+        "security",
+        "algorithm",
+        "algorithms",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Encrypts your data based on the key given to it, by adding each element of the key to the alphabet. And decrypts by subtracting."
+    },
+    "project-20": {
+      "link": "https://ams-vap.web.app/",
+      "image": "ams.png",
+      "title": "20. Attendance Management System (RA - AMS) (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "ams",
+        "attendance",
+        "management",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Manages the attendance of class, Computer Science - Section C. and calculates the attendance percentage of every student in our class."
+    },
+    "project-21": {
+      "link": "https://the-gold-smith.web.app/",
+      "image": "tgs.png",
+      "title": "21. The Gold Smith (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "gold",
+        "smith",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Jewellery site, you can order any ornament and we get it done for you according to your customizations"
+    },
+    "project-22": {
+      "link": "http://calc.xp3.biz/XOXO.html",
+      "image": "jshc.png",
+      "title": "22. XOXO Game (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "xoxo",
+        "game",
+        "games",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Play XOXO game with the system."
+    },
+    "project-23": {
+      "link": "#",
+      "image": "jsc.png",
+      "title": "23. JavaScriptComponents (JSC) / JSC framework, Create a web page without writing HTML, CSS (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "jsc",
+        "components",
+        "component",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Create your first HTML website without using HTML ☺️, this is possible. For which you have to first setup a local host and generate dynamic components using my JSC framework."
+    },
+    "project-24": {
+      "link": "#",
+      "image": "rpl.png",
+      "title": "24. ROPOL, (Rohit's Programming Language) Introducing my new language (Programming language development)",
+      "domain": [
+        "ropol",
+        "development",
+        "programming",
+        "language",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "My journey: “From learning a programming language to creating a programming language”, has been a great way though, and much more ahead. I am veryyyy happy to introduce my language ROPOL, ig this will be the best video ever on my feed, ropol is not just a language, rather its my baby 😘. So happy to see you online, it also has an offline application but just for better beta testing and easy availability ive designed an web app for this ❤️.CIRDL"
+    },
+    "project-25": {
+      "link": "https://login-into-account.web.app/",
+      "image": "phishing.jpg",
+      "title": "25. R - Phishing site (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "phishing",
+        "hack",
+        "hacking",
+        "hacker",
+        "crack",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Generate deceptive pages of social media accounts and let user enter their password and username, these credentials will be stored into the database. And this is how we can hack a particular account."
+    },
+    "project-26": {
+      "link": "http://calc.xp3.biz/JNTUH_CSE_CGPA.html",
+      "image": "jshc.png",
+      "title": "26. JNTUH CGPA Calculator for CSE (R18) (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "gpa",
+        "cgpa",
+        "marks",
+        "calculate",
+        "calculator",
+        "points",
+        "grade point average",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Calculate all your marks in a sequence from first semester to final semester, including labs."
+    },
+    "project-27": {
+      "link": "https://ourtalks.web.app/",
+      "image": "send.png",
+      "title": "27. Our talks (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "chat",
+        "application",
+        "our",
+        "talks",
+        "talk",
+        "chats",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "A basic chat application which helps people to connect, group chats are also enabled. Any one can raise an appeal to create an accont, and the account will be created for them, then the admin can allow users to join their group."
+    },
+    "project-28": {
+      "link": "http://calc.xp3.biz/IT%20Dept.html",
+      "image": "itd.png",
+      "title": "28. Income Tax Dept (Home Page) UI/UX (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "itd",
+        "income",
+        "tax",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Tax Dept UI/UX"
+    },
+    "project-29": {
+      "link": "https://translate-to-code.web.app/",
+      "image": "Translate.png",
+      "title": "29. Translate (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "translate",
+        "translator",
+        "convertor",
+        "javascript",
+        "js",
+        "application",
+        "convert"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Translate normal english into the code that you love. You can convert it into java, python, c, c++, ropol, js, c#, php, ruby"
+    },
+    "project-30": {
+      "link": "https://cyber-hacking-breaches.web.app",
+      "image": "CSHB_Icon.png",
+      "title": "30. Modeling and Predicting Cyber Hacking Breaches (Web application development) using Machine Learning",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "chb",
+        "cyber",
+        "breach",
+        "breaches",
+        "ml",
+        "machine",
+        "learning",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Cyber hacking breaches using ReactJs embedded with Machine learning algorithm ❤️. Know whether a site is safe to use or not by using my site 😌."
+    },
+    "project-31": {
+      "link": "https://ropol-online-compiler.web.app/",
+      "image": "rpl.png",
+      "title": "31. ROPOL, (Rohit's Programming Language) online compiler (Programming language development) ",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "ropol",
+        "programming",
+        "language",
+        "online",
+        "compiler",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "My journey: “From learning a programming language to creating a programming language”, has been a great way though, and much more ahead. I am veryyyy happy to introduce my language ROPOL, ig this will be the best video ever on my feed, ropol is not just a language, rather its my baby 😘. So happy to see you online, it also has an offline application but just for better beta testing and easy availability ive designed an web app for this ❤️.CIRDL"
+    },
+    "project-32": {
+      "link": "https://k-nn-algorithm.web.app/",
+      "image": "knn.png",
+      "title": "32. K - Nearest Neighbor classification algorithm(Data mining) (Web application development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "knn",
+        "neighbor",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "K - Nearest Neighbor classification algorithm K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique. K-NN algorithm assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories."
+    },
+    "project-33": {
+      "link": "http://calc.xp3.biz/XML_to_JSON.html",
+      "image": "xml_to_json.jpg",
+      "title": "33. XML to JSON Converter (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "convertor",
+        "translate",
+        "translator",
+        "xml to",
+        "to json",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Convert XML to JSON."
+    }
+  },
+  "2022": {
+    "project-1": {
+      "link": "https://maltiastrojyotishi.web.app/",
+      "image": "maj.png",
+      "title": "01. Malti Astro Jyotishi - Client project (Web application development)",
+      "domain": [
+        "react",
+        "react js",
+        "react javascript",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "client",
+        "clients",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Client project."
+    },
+    "project-2": {
+      "link": "http://rades.eu5.org/RASHM_1.html",
+      "image": "rashm_1_logo.png",
+      "title": "02. Rohit Acharya's Secured Hashing Model - 1 (RASHM-v1) (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "rashm",
+        "security",
+        "data",
+        "encryption",
+        "security",
+        "algorithm",
+        "secured",
+        "hash",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Generate a cipher text and export it over internet without its key, and the text will be automatically decrypted with the decryption algorithm."
+    },
+    "project-3": {
+      "link": "http://rades.eu5.org/ID3/ID3.html",
+      "image": "ID3logo.png",
+      "title": "03. Decision Tree Induction - ID3 algorithm (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "id3",
+        "algorithm",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "In decision tree learning, ID3 (Iterative Dichotomiser 3) is an algorithm invented by Ross Quinlan used to generate a decision tree from a dataset."
+    },
+    "project-4": {
+      "link": "http://rades.eu5.org/wordzleApp/wordzle.html",
+      "image": "wordzle.jpg",
+      "title": "04. Wordzle application (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "wordzle",
+        "game",
+        "games",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Wordzle is a web-based word game created and developed by Er. Rohit acharya. Players have six attempts to guess a five-letter word, with feedback given for each guess in the form of colored tiles indicating when letters match or occupy the correct position. The mechanics are nearly identical to the 1955 pen-and-paper game Jotto and the television game show franchise Lingo."
+    },
+    "project-5": {
+      "link": "http://rades.eu5.org/worldeCracker/wordleCracker.html",
+      "image": "wordleCrack.png",
+      "title": "05. Wordle app cracker - Using Machine Learning (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "ml",
+        "machine",
+        "learning",
+        "algorithm",
+        "cracker",
+        "wordle",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Cracking wordle application using machince learning algorithm, which basically works on the principle of Reinforcement learning. It predicts the input of a new word by the feedback given by the output of the previous input, which is given manually to the software."
+    },
+    "project-6": {
+      "link": "http://rades.eu5.org/wordzleAI/wordzle.html",
+      "image": "wordzleAI.jpg",
+      "title": "06. Wordzle - Using Artificial Intelligence (Web application development) ",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "ai",
+        "wordzle",
+        "artificial",
+        "intelligence",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Wordzle is a web-based AI word game plays the game itself, created and developed by Er. Rohit acharya. Players have six attempts to guess a five-letter word, with feedback given for each guess in the form of colored tiles indicating when letters match or occupy the correct position. The mechanics are nearly identical to the 1955 pen-and-paper game Jotto and the television game show franchise Lingo."
+    },
+    "project-7": {
+      "link": "https://rohit-s-api-s.web.app/Mphbp",
+      "image": "mphbp.jpg",
+      "title": "07. Modeling and predicting Human Behavioural Patterns using ML ",
+      "domain": [
+        "java",
+        "api",
+        "package",
+        "packages",
+        "ml",
+        "machine",
+        "learning",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Modeling and predicting human behavioural patterns using machine learning. This model is implemented using support vector machine for a better classification. In this video let us understand how the model works theoretically. The basic aim is to classify the human behaviour based on their chat responses."
+    },
+    "project-8": {
+      "link": "http://rades.eu5.org/wordle_AI_player/wordleAI.js",
+      "image": "wordleAIplayer.png",
+      "title": "08. Wordle AI player,built using reinforcement learning (Web application development)",
+      "domain": [
+        "html",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "cracker",
+        "crack",
+        "hack",
+        "ai",
+        "artificial",
+        "intelligence",
+        "ml",
+        "machine",
+        "learning",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Wordle - Artificial Intelligence, Here is a hack to crack the wordle app using my code. All you have to do is copy my code from my projects and inject it in wordle console."
+    },
+    "project-9": {
+      "link": "https://rohits-c-libs.web.app/",
+      "image": "api.jpg",
+      "title": "09. Rohit's C-Lib's using React JavaScript (Web Application Development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "package",
+        "packages",
+        "api",
+        "library",
+        "libraries",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "By using these libraries you can basically save your time and imporvise your code by embedding the already written code by developers in CIRDL. It has many advanced package codes, that are very easy to use and play with..Have fun!!"
+    },
+    "project-10": {
+      "link": "https://voting-system-online.web.app/",
+      "image": "voting-system.png",
+      "title": "10. Online voting system using React JavaScript (Web Application Development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "voting",
+        "system",
+        "e-voting",
+        "vote",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Electronic Voting is the standard means of conducting elections using Electronic Voting Systems, sometimes called 'EVS'. EVS enables a user to cast a vote to a particular candidate only once. Admin has all the privilages to upload a candidate and delete a candidate"
+    },
+    "project-11": {
+      "link": "https://cirdl-search.web.app/",
+      "image": "CodeInfinitylogo.png",
+      "title": "11. Cirdl search engine using React JavaScript (Web Application Development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "search",
+        "engine",
+        "cirdl",
+        "code",
+        "finder",
+        "javascript",
+        "js",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Find all the projects by searching on Cirdl's search engine. This engine filters your queries and returns appropriate search results for that particular query passed in. Get all the information about code infinity research and development laboratory and much more."
+    },
+    "project-12": {
+      "link": "https://jabber-gram.web.app/",
+      "image": "https://ourtalks.web.app/send.png",
+      "title": "12. Jabbergram (Chat app) using React JavaScript (Web Application Development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "jabber",
+        "gram",
+        "jabbergram",
+        "chat",
+        "talk",
+        "chats",
+        "talks",
+        "application",
+        "javascript",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Jabbergram is a chat application which helps user to send and receive their messages securely. It allows user to create one-on-one chat rooms as well as group chat room. 'Hop on gram and find yourself from the other side.'"
+    },
+    "project-13": {
+      "link": "https://portfolio-wsite.web.app/",
+      "image": "https://cdn-icons-png.flaticon.com/512/230/230402.png",
+      "title": "13. Directors portfolio (Client application) using React JavaScript (Web Application Development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "application",
+        "javascript",
+        "js",
+        "director",
+        "portfolio",
+        "directors",
+        "port",
+        "folio"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Clients portfolio website which helps my client to promote on internet, is show cases all the works of the client. This web application in totally dynamic, client can customize everything accordingly. Clinet will be able to Update | Delete | Alter the information."
+    },
+    "project-14": {
+      "link": "https://rohit-acharyas-d-otda.web.app/Send",
+      "image": "https://rohit-acharyas-d-otda.web.app/security.jpg",
+      "title": "14. Rohit Acharya's One Time Decryption Algorithm (RA-OTD) using React JavaScript (Web Application Development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "application",
+        "javascript",
+        "js",
+        "security",
+        "data",
+        "encryption",
+        "decryption",
+        "encrypt",
+        "decrypt",
+        "secired",
+        "algorithm",
+        "one",
+        "time",
+        "raotda",
+        "otd"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Rohit Acharya's OTD Algorithm, here the generated cipher text can be decrypted only once, after a single decryption the cipher text will be worned out and cant be decryted again and again. This is the speaciality of this algorithm, it internally uses RADEA | RASHM-v1 techniques and RASSv2 Keys to secure the data."
+    },
+    "project-15": {
+      "link": "https://drive.google.com/drive/folders/1BLFu1GMOOQxl-deSZ6iVrVjHqT3Ujw71?usp=sharing",
+      "image": "https://jntuh-cgpa-calculator.web.app/finalicon.png",
+      "title": "15. JNTU Hyderabad - Consolidated Marks Sheet using Python (Console Application Development)",
+      "domain": [
+        "python",
+        "marks",
+        "calculate",
+        "calculator",
+        "jntuh",
+        "cms",
+        "marks",
+        "memo",
+        "cgpa",
+        "sgpa",
+        "semester",
+        "consolidated",
+        "sheet",
+        "consolidate"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Download your CMS (Consolidated marks sheet) using this software, it will even calculate your SGPA of each semester and CGPA of B.Tech course. The guidelines to use this software are mentioned in the Read me file, give it a proper read before using this application."
+    },
+    "project-16": {
+      "link": "https://ra-mitro.web.app/",
+      "image": "https://ra-mitro.web.app/logo.jpg",
+      "title": "16. Mitro (Chat application) using React JavaScript (Web Application Development)",
+      "domain": [
+        "react",
+        "react javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "chat",
+        "application",
+        "our",
+        "talks",
+        "talk",
+        "chats",
+        "javascript",
+        "js",
+        "mitro",
+        "mithro",
+        "chatting"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "आतुरे व्यसने प्राप्ते दुर्भिक्षे शत्रु संकटे। राजद्वारे श्वशाने च यस्तिष्ठति स वान्धवः।। Mitro is a chat application which helps user to send and receive their messages securely. It allows user to create one-on-one chat rooms as well as group chat room with advanced options. You can now send an image in chat and unsend messages."
+    },
+    "project-17": {
+      "link": "http://rades.eu5.org/NumericalConversion/NumCon.html",
+      "image": "http://rades.eu5.org/NumericalConversion/icon.png",
+      "title": "17. Numerical Conversion (Web Application Development)",
+      "domain": [
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "numbers",
+        "application",
+        "number",
+        "num",
+        "numerical",
+        "numericals",
+        "convert",
+        "js",
+        "conversion"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Using this NumCon software it is very easy to convert a decimal to binary, octa-decimal, hexa-decimal and vice versa in all possible combinations of decimal, binary, octa and hexa."
+    },
+    "project-18": {
+      "link": "https://crypllet-jhx.web.app/",
+      "image": "https://crypllet-jhx.web.app/crypllet-logo.jpg",
+      "title": "18. Crypllet (E-wallet) using React JavaScript (Web Application Development)",
+      "domain": [
+        "react",
+        "javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "crypto",
+        "currency",
+        "trade",
+        "money",
+        "jhx",
+        "jahex",
+        "coins",
+        "coin",
+        "bit",
+        "jhxs",
+        "jahexs",
+        "monies",
+        "js"
+      ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Crypllet is an secured e-wallet that helps you to buy & store JHX coins"
+    }
+  }
+}
