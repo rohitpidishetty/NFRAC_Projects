@@ -2222,6 +2222,81 @@
         "Images/sample.png"
       ],
       "description": "Crypllet is an secured e-wallet that helps you to buy & store JHX coins"
+    },
+     "project-19": {
+      "link": "#",
+      "image": "https://veda-org.web.app/Veda%20Icon.png",
+      "title": "19. Veda Programming Language (Veda 1.0)",
+      "domain": [
+        "java",
+        "veda",
+        "language",
+        "program",
+        "programming",
+        "programs",
+        "development",
+        "vpl",
+        "vpld",
+        "code",
+        "software",
+        "computer",
+        ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "The Vedic language 'Sanskrit' is well regarded as the first programming language. Sanskrit has the memory in sound, which gives cosmic power to be aligned with the energy of planets and nakshatras. Project commenced on : 11-09-2022 Er. P. Rohit Acharya"
+    },
+     "project-20": {
+      "link": "https://veda-org.web.app/",
+      "image": "https://veda-org.web.app/Veda%20Icon.png",
+      "title": "20. Veda Shastra(Documentation) using React JavaScript (Web Application Development)",
+      "domain": [
+        "java",
+        "veda",
+        "language",
+        "program",
+        "programming",
+        "programs",
+        "development",
+        "vpl",
+        "vpld",
+        "code",
+        "software",
+        "computer",
+        "documentation",
+        "document",
+        "manual",
+        "shastra",
+        "shastr",
+        "shastras"
+        ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "The official documentation for Veda programming language, click here to view the syntax implementations for veda code"
+    },
+    "project-21": {
+      "link": "#",
+      "image": "https://spend-thrift-tracker.web.app/money.png",
+      "title": "21. Spend thrift tracker, using React JavaScript (Web Application Development)",
+      "domain": [
+       "react",
+        "javascript",
+        "react js",
+        "web",
+        "sites",
+        "applications",
+        "development",
+        "spend",
+        "thrift",
+        "track",
+        "tracker",
+        "money"
+        ],
+      "relatedImages": [
+        "Images/sample.png"
+      ],
+      "description": "Track your daily, monthly expenses using this application. Has many cool features"
     }
   }
 }
