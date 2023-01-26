@@ -2297,8 +2297,7 @@
         "Images/sample.png"
       ],
       "description": "Track your daily, monthly expenses using this application. Has many cool features"
-    }
-  },
+    },
    "2023": {
     "project-1": {
       "link": "#",
@@ -2321,4 +2320,5 @@
       ],
       "description": "This project is built using java language to manage the attendance of students in a class."
     }
+	 }
 }
