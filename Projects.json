@@ -2223,7 +2223,7 @@
       ],
       "description": "Crypllet is an secured e-wallet that helps you to buy & store JHX coins"
     },
-     "project-19": {
+    "project-19": {
       "link": "https://veda-org.web.app/download-veda",
       "image": "https://veda-org.web.app/Veda%20Icon.png",
       "title": "19. Veda Programming Language (Veda 1.0)",
@@ -2240,13 +2240,13 @@
         "code",
         "software",
         "computer"
-        ],
+      ],
       "relatedImages": [
         "Images/sample.png"
       ],
       "description": "The Vedic language 'Sanskrit' is well regarded as the first programming language. Sanskrit has the memory in sound, which gives cosmic power to be aligned with the energy of planets and nakshatras. Project commenced on : 11-09-2022 Er. P. Rohit Acharya"
     },
-     "project-20": {
+    "project-20": {
       "link": "https://veda-org.web.app/",
       "image": "https://veda-org.web.app/Veda%20Icon.png",
       "title": "20. Veda Shastra(Documentation) using React JavaScript (Web Application Development)",
@@ -2269,7 +2269,7 @@
         "shastra",
         "shastr",
         "shastras"
-        ],
+      ],
       "relatedImages": [
         "Images/sample.png"
       ],
@@ -2280,7 +2280,7 @@
       "image": "https://spend-thrift-tracker.web.app/money.png",
       "title": "21. Spend thrift tracker, using React JavaScript (Web Application Development)",
       "domain": [
-       "react",
+        "react",
         "javascript",
         "react js",
         "web",
@@ -2292,13 +2292,14 @@
         "track",
         "tracker",
         "money"
-        ],
+      ],
       "relatedImages": [
         "Images/sample.png"
       ],
       "description": "Track your daily, monthly expenses using this application. Has many cool features"
-    },
-   "2023": {
+    }
+  },
+  "2023": {
     "project-1": {
       "link": "#",
       "image": "java.png",
@@ -2320,5 +2321,5 @@
       ],
       "description": "This project is built using java language to manage the attendance of students in a class."
     }
-	 }
+  }
 }
