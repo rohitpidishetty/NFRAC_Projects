@@ -2298,5 +2298,27 @@
       ],
       "description": "Track your daily, monthly expenses using this application. Has many cool features"
     }
-  }
+  },
+   "2022": {
+    "project-1": {
+      "link": "#",
+      "image": "java.png",
+      "title": "01. Attendance Management System (AMS) Core Java",
+      "domain": [
+        "java",
+        "ams",
+        "attendance",
+        "management",
+        "system",
+        "calculator",
+        "calculate"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "This project is built using java language to manage the attendance of students in a class."
+    }
 }
