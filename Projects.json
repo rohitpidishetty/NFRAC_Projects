@@ -1762,7 +1762,7 @@
   "2022": {
     "project-1": {
       "link": "https://maltiastrojyotishi.web.app/",
-      "image": "maj.png",
+      "image": "projects/maj.png",
       "title": "01. Malti Astro Jyotishi - Client project (Web application development)",
       "domain": [
         "react",
@@ -1785,7 +1785,7 @@
     },
     "project-2": {
       "link": "http://rades.eu5.org/RASHM_1.html",
-      "image": "rashm_1_logo.png",
+      "image": "projects/rashm_1_logo.png",
       "title": "02. Rohit Acharya's Secured Hashing Model - 1 (RASHM-v1) (Web application development)",
       "domain": [
         "html",
@@ -1812,7 +1812,7 @@
     },
     "project-3": {
       "link": "http://rades.eu5.org/ID3/ID3.html",
-      "image": "ID3logo.png",
+      "image": "projects/ID3logo.png",
       "title": "03. Decision Tree Induction - ID3 algorithm (Web application development)",
       "domain": [
         "html",
@@ -1833,7 +1833,7 @@
     },
     "project-4": {
       "link": "http://rades.eu5.org/wordzleApp/wordzle.html",
-      "image": "wordzle.jpg",
+      "image": "projects/wordzle.jpg",
       "title": "04. Wordzle application (Web application development)",
       "domain": [
         "html",
@@ -1855,7 +1855,7 @@
     },
     "project-5": {
       "link": "http://rades.eu5.org/worldeCracker/wordleCracker.html",
-      "image": "wordleCrack.png",
+      "image": "projects/wordleCrack.png",
       "title": "05. Wordle app cracker - Using Machine Learning (Web application development)",
       "domain": [
         "html",
@@ -1880,7 +1880,7 @@
     },
     "project-6": {
       "link": "http://rades.eu5.org/wordzleAI/wordzle.html",
-      "image": "wordzleAI.jpg",
+      "image": "projects/wordzleAI.jpg",
       "title": "06. Wordzle - Using Artificial Intelligence (Web application development) ",
       "domain": [
         "html",
@@ -1903,7 +1903,7 @@
     },
     "project-7": {
       "link": "https://rohit-s-api-s.web.app/Mphbp",
-      "image": "mphbp.jpg",
+      "image": "projects/mphbp.jpg",
       "title": "07. Modeling and predicting Human Behavioural Patterns using ML ",
       "domain": [
         "java",
@@ -1924,7 +1924,7 @@
     },
     "project-8": {
       "link": "http://rades.eu5.org/wordle_AI_player/wordleAI.js",
-      "image": "wordleAIplayer.png",
+      "image": "projects/wordleAIplayer.png",
       "title": "08. Wordle AI player,built using reinforcement learning (Web application development)",
       "domain": [
         "html",
@@ -1952,7 +1952,7 @@
     },
     "project-9": {
       "link": "https://rohits-c-libs.web.app/",
-      "image": "api.jpg",
+      "image": "projects/api.jpg",
       "title": "09. Rohit's C-Lib's using React JavaScript (Web Application Development)",
       "domain": [
         "react",
@@ -1978,7 +1978,7 @@
     },
     "project-10": {
       "link": "https://voting-system-online.web.app/",
-      "image": "voting-system.png",
+      "image": "projects/voting-system.png",
       "title": "10. Online voting system using React JavaScript (Web Application Development)",
       "domain": [
         "react",
@@ -2003,7 +2003,7 @@
     },
     "project-11": {
       "link": "https://cirdl-search.web.app/",
-      "image": "CodeInfinitylogo.png",
+      "image": "projects/CodeInfinitylogo.png",
       "title": "11. Cirdl search engine using React JavaScript (Web Application Development)",
       "domain": [
         "react",
