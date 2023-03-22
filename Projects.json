@@ -1002,9 +1002,9 @@
       "description": "1. Create an account (validation) 2. Login to your account 3. Change your password 4. Sign out your account 5. Delete your account 6. store your data into database and update or modify the data accordingly 7. FullStackProject"
     },
     "project-2": {
-      "link": "https://cird-lab.web.app/",
-      "image": "CodeInfinitylogo.png",
-      "title": "02. Code Infinity Research & Development Laboratory (CIRDL)",
+      "link": "https://nfrac-in.web.app/",
+      "image": "NFRAC-png.png",
+      "title": "02. National Federation for Research in Advanced Computing (NFRAC)",
       "domain": [
         "react",
         "react javascript",
@@ -1018,12 +1018,16 @@
         "lab",
         "laboratory",
         "javascript",
-        "js"
+        "js",
+        "nfrac",
+        "national",
+        "federation",
+        "research"
       ],
       "relatedImages": [
         "Images/sample.png"
       ],
-      "description": "Code infinity research and development laboratory main website."
+      "description": "NFRAC main website."
     },
     "project-3": {
       "link": "#",
@@ -1173,9 +1177,9 @@
       "description": "Simple website that mimics mac's user interface."
     },
     "project-10": {
-      "link": "https://cirdo-elt.web.app/",
-      "image": "CodeInfinitylogo.png",
-      "title": "10. Code Infinity Research & Development Organization - Entry Level Test (CIRDO-ELT)",
+      "link": "#",
+      "image": "NFRAC-png.png",
+      "title": "10. NFRAC - Entry Level Test (ELT)",
       "domain": [
         "react",
         "react javascript",
@@ -1186,7 +1190,7 @@
         "development",
         "test",
         "entrance",
-        "cirdo",
+        "nfrac",
         "exam",
         "code",
         "cirdl",
@@ -1194,14 +1198,14 @@
         "js",
         "application",
         "elt",
-        "cirdo-elt",
+        "nfrac-elt",
         "entey",
         "test"
       ],
       "relatedImages": [
         "Images/sample.png"
       ],
-      "description": "Entrance exam to join CIRD Organization, where you can work with Er. P. Rohit Acharya."
+      "description": "Entrance exam to join NFRAC, where you can work with Er. P. Rohit Acharya."
     },
     "project-11": {
       "link": "https://sql-db-3bb10.web.app/",
