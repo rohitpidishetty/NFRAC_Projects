@@ -2302,7 +2302,7 @@
   "2023": {
     "project-1": {
       "link": "#",
-      "image": "java.png",
+      "image": "education/java.png",
       "title": "01. Attendance Management System (AMS) Core Java",
       "domain": [
         "java",
