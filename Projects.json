@@ -2006,8 +2006,8 @@
       "description": "Electronic Voting is the standard means of conducting elections using Electronic Voting Systems, sometimes called 'EVS'. EVS enables a user to cast a vote to a particular candidate only once. Admin has all the privilages to upload a candidate and delete a candidate"
     },
     "project-11": {
-      "link": "https://nfrac-search.web.app/",
-      "image": "projects/CodeInfinitylogo.png",
+      "link": "https://nfrac-search-engine.web.app/",
+      "image": "NFRAC-png.png",
       "title": "11. NFRAC search engine using React JavaScript (Web Application Development)",
       "domain": [
         "react",
