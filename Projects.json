@@ -1978,7 +1978,7 @@
       "relatedImages": [
         "Images/sample.png"
       ],
-      "description": "By using these libraries you can basically save your time and imporvise your code by embedding the already written code by developers in CIRDL. It has many advanced package codes, that are very easy to use and play with..Have fun!!"
+      "description": "By using these libraries you can basically save your time and imporvise your code by embedding the already written code by computer engineers in NFRAC. It has many advanced package codes, that are very easy to use and play with..Have fun!!"
     },
     "project-10": {
       "link": "https://voting-system-online.web.app/",
@@ -2006,9 +2006,9 @@
       "description": "Electronic Voting is the standard means of conducting elections using Electronic Voting Systems, sometimes called 'EVS'. EVS enables a user to cast a vote to a particular candidate only once. Admin has all the privilages to upload a candidate and delete a candidate"
     },
     "project-11": {
-      "link": "https://cirdl-search.web.app/",
+      "link": "https://nfrac-search.web.app/",
       "image": "projects/CodeInfinitylogo.png",
-      "title": "11. Cirdl search engine using React JavaScript (Web Application Development)",
+      "title": "11. NFRAC search engine using React JavaScript (Web Application Development)",
       "domain": [
         "react",
         "react javascript",
@@ -2024,12 +2024,13 @@
         "finder",
         "javascript",
         "js",
-        "application"
+        "application",
+        "nfrac"
       ],
       "relatedImages": [
         "Images/sample.png"
       ],
-      "description": "Find all the projects by searching on Cirdl's search engine. This engine filters your queries and returns appropriate search results for that particular query passed in. Get all the information about code infinity research and development laboratory and much more."
+      "description": "Find all the projects by searching on NFRAC's search engine. This engine filters your queries and returns appropriate search results for that particular query passed in. Get all the information about NFRAC and much more."
     },
     "project-12": {
       "link": "https://jabber-gram.web.app/",
