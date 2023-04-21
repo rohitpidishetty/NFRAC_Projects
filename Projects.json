@@ -1927,9 +1927,9 @@
       "description": "Modeling and predicting human behavioural patterns using machine learning. This model is implemented using support vector machine for a better classification. In this video let us understand how the model works theoretically. The basic aim is to classify the human behaviour based on their chat responses."
     },
     "project-8": {
-      "link": "http://rades.eu5.org/wordle_AI_player/wordleAI.js",
+      "link": "https://raw.githubusercontent.com/rohitpidishetty/Wordle-AI-player/main/ML_model.js",
       "image": "projects/wordleAIplayer.png",
-      "title": "08. Wordle AI player,built using reinforcement learning (Web application development)",
+      "title": "08. Wordle AI player, built using reinforcement learning (Web application development)",
       "domain": [
         "html",
         "web",
