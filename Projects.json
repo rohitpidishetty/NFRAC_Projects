@@ -2325,6 +2325,33 @@
         "Images/p19c4.png"
       ],
       "description": "This project is built using java language to manage the attendance of students in a class."
+    },
+    "project-2": {
+      "link": "https://experts-vxf.web.app/",
+      "image": "react.png",
+      "title": "2. Experts VFX - Client project (Web application development)",
+      "domain": [
+      "react",
+      "react js",
+      "react javascript",
+      "web",
+      "sites",
+      "applications",
+      "development",
+      "client",
+      "clone",
+      "javascript",
+      "js",
+      "experts",
+      "vfx",
+      "animation",
+      "animate",
+      "clients"
+    ],
+    "relatedImages": [
+    "Images/sample.png"
+    ],
+    "description": "Client project for showcasing their portfolio for VFX/ ART."
     }
   }
 }
