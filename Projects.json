@@ -2328,7 +2328,7 @@
     },
     "project-2": {
       "link": "https://experts-vxf.web.app/",
-      "image": "react.png",
+      "image": "projects/react.png",
       "title": "2. Experts VFX - Client project (Web application development)",
       "domain": [
       "react",
