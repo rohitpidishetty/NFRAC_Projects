@@ -2281,7 +2281,7 @@
       "description": "The official documentation for Veda programming language, click here to view the syntax implementations for veda code"
     },
     "project-21": {
-      "link": "#",
+      "link": "https://spend-thrift-tracker.web.app",
       "image": "https://spend-thrift-tracker.web.app/money.png",
       "title": "21. Spend thrift tracker, using React JavaScript (Web Application Development)",
       "domain": [
@@ -2296,7 +2296,9 @@
         "thrift",
         "track",
         "tracker",
-        "money"
+        "money",
+        "client",
+        "clients"
       ],
       "relatedImages": [
         "Images/sample.png"
