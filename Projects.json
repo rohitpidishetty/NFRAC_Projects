@@ -2331,7 +2331,7 @@
     "project-2": {
       "link": "https://experts-vxf.web.app/",
       "image": "projects/react.png",
-      "title": "2. Experts VFX - Client project (Web application development)",
+      "title": "2. Experts VFX - Client project (React js -Web application development)",
       "domain": [
       "react",
       "react js",
@@ -2354,6 +2354,33 @@
     "Images/sample.png"
     ],
     "description": "Client project for showcasing their portfolio for VFX/ ART."
+    },
+    "project-3": {
+      "link": "https://splitfacile.web.app/",
+      "image": "https://splitfacile.web.app/icons/splitfacile.png",
+      "title": "3. Splitfacile, using React Javascript (Web Application Development)",
+      "domain": [
+      "react",
+      "react js",
+      "react javascript",
+      "web",
+      "sites",
+      "applications",
+      "development",
+      "javascript",
+      "js",
+      "money",
+      "split",
+      "divide",
+      "facile",
+      "amount",
+      "rupees",
+      "dollors"
+    ],
+    "relatedImages": [
+    "Images/sample.png"
+    ],
+    "description": "Manage all your payments and split them easily with one click."
     }
   }
 }
