@@ -2381,6 +2381,38 @@
     "Images/sample.png"
     ],
     "description": "Manage all your payments and split them easily with one click."
+    },
+    ,
+    "project-4": {
+      "link": "https://drive.google.com/file/d/1Ag9kphS3lcsMvCd4dMj3liMPy-fw7gqx/view",
+      "image": "https://splitfacile.web.app/icons/splitfacile.png",
+      "title": "4. Mitigating the Spread of Misinformation and Hoax News on Social Media (Deep learning)",
+      "domain": [
+      "ml",
+      "machine learning",
+      "dl",
+      "deep",
+      "learn",
+      "learning",
+      "machine",
+      "neural",
+      "network",
+      "networks",
+      "ai",
+      "intelligence",
+      "artificial",
+      "cnn",
+      "lstm",
+      "convolutional",
+      "memory",
+      "long",
+      "short"
+    ],
+    "relatedImages": [
+    "Images/sample.png"
+    ],
+    "description": "Classifying text using deep learning methodologies"
     }
+    
   }
 }
