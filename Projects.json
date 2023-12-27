@@ -2331,7 +2331,7 @@
     "project-2": {
       "link": "https://experts-vxf.web.app/",
       "image": "projects/react.png",
-      "title": "2. Experts VFX - Client project (React js -Web application development)",
+      "title": "02. Experts VFX - Client project (React js -Web application development)",
       "domain": [
       "react",
       "react js",
@@ -2358,7 +2358,7 @@
     "project-3": {
       "link": "https://splitfacile.web.app/",
       "image": "https://splitfacile.web.app/icons/splitfacile.png",
-      "title": "3. Splitfacile, using React Javascript (Web Application Development)",
+      "title": "03. Splitfacile, using React Javascript (Web Application Development)",
       "domain": [
       "react",
       "react js",
@@ -2385,7 +2385,7 @@
     "project-4": {
       "link": "https://drive.google.com/file/d/1Ag9kphS3lcsMvCd4dMj3liMPy-fw7gqx/view",
       "image": "https://cdn-icons-png.flaticon.com/512/2103/2103787.png",
-      "title": "4. Mitigating the Spread of Misinformation and Hoax News on Social Media (Deep learning)",
+      "title": "04. Mitigating the Spread of Misinformation and Hoax News on Social Media (Deep learning)",
       "domain": [
       "ml",
       "machine learning",
@@ -2411,6 +2411,44 @@
     "Images/sample.png"
     ],
     "description": "Classifying text using deep learning methodologies"
+    },
+     "project-5": {
+      "link": "#",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Social_Network_Analysis_Visualization.png/1024px-Social_Network_Analysis_Visualization.png",
+      "title": "05. Snap Analysis (Deep neural networks)",
+      "domain": [
+      "ml",
+      "machine learning",
+      "dl",
+      "deep",
+      "learn",
+      "learning",
+      "machine",
+      "neural",
+      "network",
+      "networks",
+      "ai",
+      "intelligence",
+      "artificial",
+      "cnn",
+      "lstm",
+      "convolutional",
+      "memory",
+      "long",
+      "short",
+      "snap",
+      "image",
+      "analyze",
+      "analysis",
+      "analyzer",
+      "photo",
+      "pic",
+      "picture"
+    ],
+    "relatedImages": [
+    "Images/sample.png"
+    ],
+    "description": "Analyzes the image based on the learnt information"
     }
     
   }
