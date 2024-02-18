@@ -2553,6 +2553,39 @@
         "Images/p19c4.png"
       ],
       "description": "Manage your schedule seamlessly without any hassel."
+    },
+    "project-3": {
+      "link": "#",
+      "image": "https://cdn4.iconfinder.com/data/icons/big-data-astute-vol-1-1/512/Cluster_Computing-512.png",
+      "title": "03. Job Posting, Visualization & Computation on clustering using Django",
+      "domain": [
+        "python",
+        "py",
+        "django",
+        "web",
+        "site",
+        "html",
+        "js",
+        "javascript",
+        "css",
+        "page",
+        "pages",
+        "jobs",
+        "computation",
+        "computer",
+        "compute",
+        "schedule",
+        "visualization",
+        "cluster",
+        "job"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "An application that facilitates posting of jobs on cluster and computes time-table and provides graph visualization for better interpretation."
     }
   }
 }
