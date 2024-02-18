@@ -2557,7 +2557,7 @@
     "project-3": {
       "link": "#",
       "image": "https://cdn4.iconfinder.com/data/icons/big-data-astute-vol-1-1/512/Cluster_Computing-512.png",
-      "title": "03. Job Posting, Visualization & Computation on clustering using Django",
+      "title": "03. Job Posting, Visualization & Computation on clusters using Django",
       "domain": [
         "python",
         "py",
