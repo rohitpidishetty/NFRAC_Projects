@@ -2586,6 +2586,38 @@
         "Images/p19c4.png"
       ],
       "description": "An application that facilitates posting of jobs on cluster and computes time-table and provides graph visualization for better interpretation."
+    },
+    "project-4": {
+      "link": "https://memory-address-translator.web.app/",
+      "image": "https://memory-address-translator.web.app/ram.png",
+      "title": "04. Memory Address Translator (MAT) using React JS",
+      "domain": [
+        "react",
+        "js",
+        "script",
+        "javascript",
+        "site",
+        "html",
+        "mat",
+        "memory",
+        "address",
+        "translator",
+        "translate",
+        "os",
+        "manage",
+        "manager",
+        "management",
+        "address",
+        "physical",
+        "virtual"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "An application to translate memory addresses from physical to virutal space and virtual to physical space"
     }
   }
 }
