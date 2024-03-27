@@ -2618,6 +2618,56 @@
         "Images/p19c4.png"
       ],
       "description": "An application that helps students in visualizing OS concepts and help them to master the subject with better understanding."
+    },
+    "project-5": {
+      "link": "",
+      "image": "https://cdn-icons-png.flaticon.com/512/4539/4539472.png",
+      "title": "05. Hoax Data Detector (Fullstack)",
+      "domain": [
+        "react",
+        "js",
+        "script",
+        "javascript",
+        "site",
+        "html",
+        "django",
+        "python",
+        "full",
+        "stack",
+        "fullstack",
+        "backend",
+        "server",
+        "frontend",
+        "api",
+        "rest",
+        "programming",
+        "application",
+        "interface",
+        "ml",
+        "machine",
+        "learning",
+        "dl",
+        "deep",
+        "ai",
+        "artificial",
+        "intelligence",
+        "fake",
+        "news",
+        "detection",
+        "detector",
+        "covid",
+        "news",
+        "hoax",
+        "data",
+        "information"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "Abstract—Detecting and mitigating the misinformation on internet is essential for mankind. Especially, at the time of Covid-19 pandemic, the spread of misinformation was taken to a new level of rapid spread, by spreading baseless information. This has put people is a very unsatisfactory situation and lead to depression and serious health implications. To address this problem, this paper proposes a new methodology to identify whether the given information is reliable or unreliable using deep learning approach. The study utilizes the dataset containing about 8,560 tweets about the covid-19 news and its reliability, i.e., whether the given tweet is real or fake."
     }
   }
 }
