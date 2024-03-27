@@ -2667,7 +2667,7 @@
         "Images/p19c3.png",
         "Images/p19c4.png"
       ],
-      "description": "Abstract—Detecting and mitigating the misinformation on internet is essential for mankind. Especially, at the time of Covid-19 pandemic, the spread of misinformation was taken to a new level of rapid spread, by spreading baseless information. This has put people is a very unsatisfactory situation and lead to depression and serious health implications. To address this problem, this paper proposes a new methodology to identify whether the given information is reliable or unreliable using deep learning approach. The study utilizes the dataset containing about 8,560 tweets about the covid-19 news and its reliability, i.e., whether the given tweet is real or fake."
+      "description": "A Full-stack application for Detecting and mitigating the misinformation regarding Covid-19 on internet".
     }
   }
 }
