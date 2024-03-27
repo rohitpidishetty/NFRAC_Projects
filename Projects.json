@@ -2452,7 +2452,7 @@
     },
     "project-6": {
       "link": "#",
-      "image": "https://rumc-gcorg-p-public.s3.amazonaws.com/logos/productimage/None/tmptmpo2vf7ntqimagesproduct_imagesimbio-lung-texture-analysis.png",
+      "image": "https://www.yogabodymind.co.uk/wp-content/uploads/2020/03/Healthy-lungs.jpg",
       "title": "06. Bronchi Ulceration Sensing (Deep Neural Networks / Deep Learning)",
       "domain": [
         "ml",
@@ -2659,7 +2659,9 @@
         "news",
         "hoax",
         "data",
-        "information"
+        "information",
+        "classification",
+        "prediction"
       ],
       "relatedImages": [
         "Images/p19c1.png",
@@ -2668,6 +2670,58 @@
         "Images/p19c4.png"
       ],
       "description": "A Full-stack application for Detecting and mitigating the misinformation regarding Covid-19 on internet."
+    },
+    "project-6": {
+      "link": "",
+      "image": "https://www.yogabodymind.co.uk/wp-content/uploads/2020/03/Healthy-lungs.jpg",
+      "title": "06. Bronchi Ulceration Detector (Fullstack)",
+      "domain": [
+        "react",
+        "js",
+        "script",
+        "javascript",
+        "site",
+        "html",
+        "django",
+        "python",
+        "full",
+        "stack",
+        "fullstack",
+        "backend",
+        "server",
+        "frontend",
+        "api",
+        "rest",
+        "programming",
+        "application",
+        "interface",
+        "ml",
+        "machine",
+        "learning",
+        "dl",
+        "deep",
+        "ai",
+        "artificial",
+        "intelligence",
+        "lung",
+        "lungs",
+        "infection",
+        "infections",
+        "ulcer",
+        "ulcers",
+        "classification",
+        "prediction",
+        "respiration",
+        "respiratory",
+        "infect"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "A Full-stack application for Senses lung infection's using deep learning methodologies."
     }
   }
 }
