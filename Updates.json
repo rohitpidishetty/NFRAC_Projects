@@ -1,34 +1,19 @@
 {
   "news" : [
     {
-      "date": "18-07-2019",
-      "title": "Abc",
+      "date": "09-07-2024",
+      "title": "Defined a 4096-B O(1) Generic Virtual Memory along with CFMA technology, this is a memory foundation for storing data (variables & objects).",
       "link": "#"
     },
-     {
-      "date": "18-07-2020",
-      "title": "qwe abc",
+    {
+      "date": "02-07-2024",
+      "title": "The department of PLD has decided to migrate the interpreter from Java to C, for effective code execution.",
       "link": "#"
     },
-     {
-      "date": "18-07-2021",
-      "title": "asd abc",
-      "link": "#"
-    },
-     {
-      "date": "18-07-2022",
-      "title": "zxc abc",
-      "link": "#"
-    },
-     {
-      "date": "18-07-2023",
-      "title": "hgj abc",
-      "link": "#"
-    },
-     {
-      "date": "18-07-2024",
-      "title": "Xyz abc",
-      "link": "#"
+    {
+      "date": "10-06-2024",
+      "title": "Released Veda 1.2 Programming Language",
+      "link": "https://veda-org.web.app/download-veda"
     }
   ]
 }
