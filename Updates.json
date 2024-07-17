@@ -1,6 +1,11 @@
 {
   "news" : [
     {
+      "date": "18-07-2024",
+      "title": "The abbreviation of VEDA 2.0, 'Very Easy Development Architecture'",
+      "link": "#"
+    },
+    {
       "date": "09-07-2024",
       "title": "Defined a 4096-B O(1) Generic Virtual Memory along with CFMA technology, this is a memory foundation for storing data (variables & objects).",
       "link": "#"
