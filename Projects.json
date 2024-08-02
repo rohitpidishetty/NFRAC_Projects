@@ -2722,6 +2722,28 @@
         "Images/p19c4.png"
       ],
       "description": "A Full-stack application for Senses lung infection's using deep learning methodologies."
+    },
+    "project-7" : {
+      "link": "",
+      "image": "https://nfrac-in.web.app/departments/garuda.png",
+      "title": "07. GARDUA (Programming Language Development)",
+      "domain": [
+        "garuda",
+        "grd",
+        "pld",
+        "compiler",
+        "program",
+        "programming",
+        "language",
+        "lang"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "GARUDA - Generating Assembly Resources Using Direct Algebra, is a compiler that translates given *.grd files into executable file for execution."
     }
   }
 }
