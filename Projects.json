@@ -2744,6 +2744,28 @@
         "Images/p19c4.png"
       ],
       "description": "GARUDA - Generating Assembly Resources Using Direct Algebra, is a compiler that translates given *.grd files into executable file for execution."
+    },
+    "project-8" : {
+      "link": "",
+      "image": "https://itt-academy.web.app",
+      "title": "08. ITTacademy (Ed-tech portal)",
+      "domain": [
+        "itt",
+        "itta",
+        "academy",
+        "study",
+        "student",
+        "learn",
+        "skills",
+        "cse"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "ITTacademy is a premier online platform dedicated to transforming the skills and careers of college students and IT professionals alike. We are committed to cultivating an environment that empowers our learners to discover their talents, enhance their skills, and seize opportunities throughout their professional journeys. At ITTacademy, our expert instructors and mentors provide comprehensive guidance and support to help you excel in tech interviews and thrive in the dynamic world of technology. Join ITTacademy today and take the first step towards reaching your coding and career aspirations. Let us assist you in unlocking your full potential and launching a successful tech career!"
     }
   }
 }
