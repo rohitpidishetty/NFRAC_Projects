@@ -2746,8 +2746,8 @@
       "description": "GARUDA - Generating Assembly Resources Using Direct Algebra, is a compiler that translates given *.grd files into executable file for execution."
     },
     "project-8" : {
-      "link": "",
-      "image": "https://itt-academy.web.app",
+      "link": "https://itt-academy.web.app",
+      "image": "https://itt-academy.web.app/EDU.png",
       "title": "08. ITTacademy (Ed-tech portal)",
       "domain": [
         "itt",
