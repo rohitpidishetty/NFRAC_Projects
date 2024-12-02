@@ -2766,6 +2766,58 @@
         "Images/p19c4.png"
       ],
       "description": "ITTacademy is a premier online platform dedicated to transforming the skills and careers of college students and IT professionals alike. We are committed to cultivating an environment that empowers our learners to discover their talents, enhance their skills, and seize opportunities throughout their professional journeys. At ITTacademy, our expert instructors and mentors provide comprehensive guidance and support to help you excel in tech interviews and thrive in the dynamic world of technology. Join ITTacademy today and take the first step towards reaching your coding and career aspirations. Let us assist you in unlocking your full potential and launching a successful tech career!"
+    },
+     "project-9" : {
+      "link": "https://drive.google.com/file/d/14oUzB0TRRnG-U1DUvjgyQDjWNe-HnCRH/view",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9TmEJA0-UKqAKkU5rxbpCKRvURDTVf0ztSA&s",
+      "title": "09. Advanced Brain Tumor Segmentation Using SAM2-UNet",
+      "domain": [
+        "abts",
+        "seg",
+        "segment",
+        "segmentation",
+        "brain",
+        "sam",
+        "sam2",
+        "2",
+        "unet",
+        "u",
+        "net",
+        "tumor"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "Abstract—Image segmentation is one of the key factor in diagnosing glioma patients with brain tumors, this helps the doctor to identify the type of tumor that the patient is bearing and will lead to pre-diagnosis that will help saving the patients life. Analysis of medical images is a specialized domain in computer vision and image processing, this process extracts meaningful insights from the medical image scans, that help in treatment planning and monitoring the patients condition. Deep learning models like CNN’s have shown great promising results in this domain of image segmentation through identifying the complex patterns in the image data. These methods have also shown great results in tumor segmentation, identification of anomalies which assist the healthcare professionals to plan for the treatment. To segment the tumors accurately and effectively, we have used a hybrid model that infuses Segment Anything Model-2 with U-Network as this model possess the ability to perform explicitly well on scarce data and trained this model on Brain Tumor Segmentation challenge 2020 dataset. This architecture is inspired by the U-Networks that works on encoder and decoder architecture. We have also used the Hiera a pre-trained model as the backbone for this architecture to capture multi-scaled features. Adapters are embedded into the encoder to achieve parameter efficient fine-tuning. The dataset used for this experiment has been divided into two parts out of which 80% of the data i.e., out of 369 MRI scans 295 were used for training and 20% of the data i.e., 74 MRI scans were used for testing purpose. The dataset contains four channels of MRI scans of 369 glioma patients as T1, T1ce, T2, T2-flair and segmentation consists Not-tumor (NT), Necrotic and non-enhancing tumor (NCR/NET), Peritumoral edema, GD-enhancing tumor (ET)."
+     },
+    "project-10" : {
+      "link": "https://drive.google.com/file/d/19-G9C85QBsf--Cp3ReJ_FaDr22QRx5R5/view",
+      "image": "https://www.shutterstock.com/pt/blog/wp-content/uploads/sites/4/2021/08/deepfake.jpg?w=435&h=435&crop=1",
+      "title": "10. Synthetic Media Recognition using Dlib-VGG16 with Multi-head Attention",
+      "domain": [
+        "abts",
+        "seg",
+        "segment",
+        "segmentation",
+        "brain",
+        "sam",
+        "sam2",
+        "2",
+        "unet",
+        "u",
+        "net",
+        "tumor"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "Abstract—Deepfake is a technology that uses artificial intelligence to create realistic images and even videos making individuals to do or to say something that they haven’t in the real life and due to this reason deepfake detection models have come into picture. Since these deepfake models have come into picture, it was observed that the internet had a surge in the deepfake videos and images which had the potential to harm once feelings, blackmail or threaten the victim, these videos and images have gone viral on the internet thus becoming accessible to everyone with a smartphone leaving a very pathetic impact on the society. These manipulated images and videos have put the victims in a very pathetic and helpless situation due to their speculation among family and friends, this concerning situation has made the victims to face serious consequences, including mental distress and social isolation leading to take their own life. Since then deepfake detection models have come into spot light to address whether an image or a video is real or manipulate a.k.a deep-faked. To underline the problem this paper proposes Synthetic Media Recognition using Dlib-VGG16 with Multi-head attention to detect synthetic deep-faked videos accurately. The celeb-df dataset used in the study contains 157 real videos and 795 fake videos, the faceforensic++ dataset contains 200 real videos and 200 fake videos respectively. Novel deep learning strategies are used to efficiently predict the authenticity of a video using celeb-df & ff++ datasets. The experimental results indicates 97.07% of accuracy, 96.49% of precision, 100% of recall 98.21% of f1 score and 92.51% of area under the curve (AUC) on Celeb-df dataset, 92.81% of accuracy, 92.81% of precision, 100% of recall 96.27% of f1 score and 50.01% of area under the curve (AUC) on Faceforensic++ dataset."
     }
   }
 }
