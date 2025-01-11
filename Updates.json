@@ -1,5 +1,10 @@
 {
   "news" : [
+     {
+      "date": "08-01-2025",
+      "title": "Attended 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) at UNIVERSITY OF NEVADA, LAS VEGAS, USA (Online) to present our research paper on Breaking the Fake: a CNN-BiLSTM Approach for Fake News Detection on Social Media (1571097654), funding has been secured from Dr. Chen chair in the CS dept of the TTU",
+      "link": "#"
+    },
     {
       "date": "02-09-2024",
       "title": "Launching our Ed-tech portal, ITTacademy. A place to start your programming journey!!",
