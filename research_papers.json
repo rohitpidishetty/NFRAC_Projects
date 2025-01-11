@@ -1,4 +1,4 @@
- {
+ [
     {
       name: "Synthetic Media Recognition using Dlib-VGG16 with Multi-head Attention",
       link: "https://drive.google.com/file/d/19-G9C85QBsf--Cp3ReJ_FaDr22QRx5R5/view",
@@ -47,4 +47,4 @@
       shortlink: "https://drive.google.com/file/JTP",
       year: "2021"
     }
-  }
+ ]
