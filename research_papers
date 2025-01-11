@@ -1,0 +1,50 @@
+ {
+    {
+      name: "Synthetic Media Recognition using Dlib-VGG16 with Multi-head Attention",
+      link: "https://drive.google.com/file/d/19-G9C85QBsf--Cp3ReJ_FaDr22QRx5R5/view",
+      shortlink: "https://drive.google.com/file/SMR",
+      year: "2024"
+    },
+    {
+      name: "Advanced Brain Tumor Segmentation Using SAM2-UNet",
+      link: "https://drive.google.com/file/d/14oUzB0TRRnG-U1DUvjgyQDjWNe-HnCRH/view",
+      shortlink: "https://drive.google.com/file/ABTS",
+      year: "2024"
+    },
+    {
+      name: "Mitigating the Spread of Misinformation and Hoax News on Social Media",
+      link: "https://drive.google.com/file/d/1Ag9kphS3lcsMvCd4dMj3liMPy-fw7gqx/view",
+      shortlink: "https://drive.google.com/file/MSMHNSM",
+      year: "2023"
+    },
+    {
+      name: "Veda Programming Language 1.0",
+      link: "https://drive.google.com/file/d/1AFnbnfg5p0N_fN-9zdjJ-yoIuCiijtud/view",
+      shortlink: "https://drive.google.com/file/VPLD",
+      year: "2022"
+    },
+    {
+      name: "Rohit Acharya's Secured Encryption Model (RASEM)",
+      link: "https://drive.google.com/file/d/1Um90-vJKXKfCmb2RYZllyd883hYdudKX/view",
+      shortlink: "https://drive.google.com/file/RASEM",
+      year: "2022"
+    },
+    {
+      name: "Rohit Acharya's Secured Data Encryption Algorithm (RAsDEA)",
+      link: "https://drive.google.com/file/d/1JN2HwStIMaOrqIcNg-XWOab_gDVoeNbS/view",
+      shortlink: "https://drive.google.com/file/RAsDEA",
+      year: "2022"
+    },
+    {
+      name: "Rohit's Programming Language (ROPOL)",
+      link: "https://drive.google.com/file/d/1Hp6R9xF_lRKbh2pqBfEBDT6zEltAyqk-/view",
+      shortlink: "https://drive.google.com/file/ROPOL",
+      year: "2021"
+    },
+    {
+      name: "Java to Python Convertor",
+      link: "https://drive.google.com/file/d/1dHW2lhzC6e77Y7ydphVzrn76o5aZ7LJA/view",
+      shortlink: "https://drive.google.com/file/JTP",
+      year: "2021"
+    }
+  }
