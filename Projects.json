@@ -2496,7 +2496,7 @@
   "2024": {
     "project-1": {
       "link": "#",
-      "image": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/styles/article_featured_retina/public/encryption%20security%20infosec%20illustration%20getty.jpg?itok=DfqBx1Mn",
+      "image": "https://cdn-icons-png.flaticon.com/512/1813/1813806.png",
       "title": "01. Rohit Acharya's Secured Image Encryption and Decryption (RASIED)",
       "domain": [
         "python",
@@ -2824,7 +2824,7 @@
      "project-1" : {
       "link": "https://itt-academy.web.app/class_room",
       "image": "https://itt-academy.web.app/onlineclass.png",
-      "title": "1. Dedicated online ClassRoom for ITTacademy",
+      "title": "01. Dedicated online ClassRoom for ITTacademy",
       "domain": [
         "class",
         "room",
