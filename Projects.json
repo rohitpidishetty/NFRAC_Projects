@@ -2843,6 +2843,39 @@
         "Images/p19c4.png"
       ],
       "description": "An online classroom facility that helps students to learn effectively by providing interactive tools, personalized learning paths, real-time feedback, and access to a wide range of educational resources anytime, anywhere."
+    },
+    "project-2" : {
+      "link": "https://itt-academy.web.app/store",
+      "image": "https://itt-academy.web.app/EDU.png",
+      "title": "02. ITTacademy Official Merchandise: Gear Up for Success!",
+      "domain": [
+        "merch",
+        "merchandise",
+        "itta",
+        "itt",
+        "academy",
+        "ittacademy",
+        "shop",
+        "store",
+        "buy",
+        "order",
+        "e",
+        "commerce",
+        "e-com",
+        "e-commerce",
+        "tee",
+        "shirts",
+        "shirt",
+        "coffee",
+        "items"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "Represent ITT Academy with our exclusive official merchandise! From stylish apparel to must-have accessories, our collection is designed for students, alumni, and tech enthusiasts alike. Gear up for success with ITT Academy!"
     }
   }
 }
