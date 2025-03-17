@@ -1,5 +1,15 @@
 {
   "news" : [
+    {
+      "date": "17-03-2025",
+      "title": "Ssuccessfully published my paper titled 'Advanced Brain Tumor Segmentation Using SAM2-UNet.' This paper focuses on leveraging the SAM2-UNet model for advanced segmentation of brain tumors, improving the accuracy and efficiency of detecting and delineating tumor regions in medical imaging.",
+      "link": "https://www.mdpi.com/2076-3417/15/6/3267"
+    },
+    {
+      "date": "05-03-2025",
+      "title": "Successfully published my paper titled 'Breaking the Fake: A CNN-BiLSTM Approach for Fake News Detection on Social Media.' It explores using Convolutional Neural Networks and Bi-directional LSTM networks to tackle the challenge of fake news detection on social media platforms.",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10903759"
+    },
      {
       "date": "08-01-2025",
       "title": "Attended 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) at UNIVERSITY OF NEVADA, LAS VEGAS, USA (Online) to present our research paper on Breaking the Fake: a CNN-BiLSTM Approach for Fake News Detection on Social Media (1571097654), funding has been secured from Dr. Chen chair in the CS dept of the TTU",
