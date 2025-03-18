@@ -2,7 +2,7 @@
   "news" : [
     {
       "date": "17-03-2025",
-      "title": "Ssuccessfully published my paper titled 'Advanced Brain Tumor Segmentation Using SAM2-UNet.' This paper focuses on leveraging the SAM2-UNet model for advanced segmentation of brain tumors, improving the accuracy and efficiency of detecting and delineating tumor regions in medical imaging.",
+      "title": "Successfully published my paper titled 'Advanced Brain Tumor Segmentation Using SAM2-UNet.' This paper focuses on leveraging the SAM2-UNet model for advanced segmentation of brain tumors, improving the accuracy and efficiency of detecting and delineating tumor regions in medical imaging.",
       "link": "https://www.mdpi.com/2076-3417/15/6/3267"
     },
     {
