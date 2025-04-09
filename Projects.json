@@ -2909,6 +2909,39 @@
         "Images/p19c4.png"
       ],
       "description": "Code Journey is an advanced online coding platform designed to enhance the learning and teaching experience through real-time code analysis and feedback. It features a powerful online interpreter that evaluates code submissions and provides detailed feedback based on the input code. This helps developers improve their coding skills by identifying errors, suggesting optimizations, and offering best practices. For educators, Code Journey offers a unique advantage by enabling professors to visualize and understand the structure and logic behind the code. It includes plagiarism detection mechanisms to verify whether the code has been copy-pasted or written from scratch, ensuring academic integrity and promoting original work. With a combination of real-time feedback, insightful analytics, and a supportive learning environment, Code Journey empowers both students and educators to achieve coding excellence."   
+    },
+    "project-4" : {
+      "link": "#",
+      "image": "https://code-journey-py.web.app/icon.png",
+      "title": "04. Vedex - Online Veda Interpreter",
+      "domain": [
+        "code",
+        "journey",
+        "coding",
+        "veda",
+        "ved",
+        "online",
+        "interpreter",
+        "js",
+        "script",
+        "full",
+        "stack",
+        "react",
+        "django",
+        "web",
+        "development",
+        "feedback",
+        "feeb",
+        "process",
+        "application"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "Code Journey is an advanced online coding platform designed to enhance the learning and teaching experience through real-time code analysis and feedback. It features a powerful online interpreter that evaluates code submissions and provides detailed feedback based on the input code. This helps developers improve their coding skills by identifying errors, suggesting optimizations, and offering best practices. For educators, Code Journey offers a unique advantage by enabling professors to visualize and understand the structure and logic behind the code. It includes plagiarism detection mechanisms to verify whether the code has been copy-pasted or written from scratch, ensuring academic integrity and promoting original work. With a combination of real-time feedback, insightful analytics, and a supportive learning environment, Code Journey empowers both students and educators to achieve coding excellence."   
     }
   }
 }
