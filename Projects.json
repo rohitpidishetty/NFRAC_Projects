@@ -2999,6 +2999,41 @@
         "Images/p19c4.png"
       ],
       "description": "Auto-clearing messages every 24 hours, seen status via eye icon, photo sharing in chats, private profiles, post interactions (like/dislike/comment/copy/delete), smart friend suggestions with instant search, friend requests and online status indicator, real-time notifications for posts and messages, post uploads with descriptions and location tags, home screen feed of all posts, end-to-end encrypted chats, 2FA with email OTP, and upcoming AI-powered features."   
+    },
+    "project-7" : {
+      "link": "https://yaari-dba.web.app/",
+      "image": "https://yaari-jud.web.app/assets/logo.png",
+      "title": "07. YAARI - Admin Portal",
+      "domain": [
+        "social",
+        "media",
+        "yaari",
+        "yari",
+        "yaar",
+        "yar",
+        "chat",
+        "app",
+        "application",
+        "chats",
+        "chating",
+        "message",
+        "messaging",
+        "share",
+        "gram",
+        "db",
+        "admin",
+        "portal",
+        "dba",
+        "administrator"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "Yaari admin portal, lets admin to have a clear view of the YAARI userbase"   
+    
     }
   }
 }
