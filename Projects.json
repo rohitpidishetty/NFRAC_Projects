@@ -3037,7 +3037,7 @@
     },
     "project-8" : {
       "link": "https://github.com/rohitpidishetty/ReferralSystem",
-      "image": "https://github.com/rohitpidishetty/ReferralSystem/blob/main/Design.jpg",
+      "image": "https://github.com/rohitpidishetty/ReferralSystem/blob/main/Design.jpg?raw=true",
       "title": "08. Referral System",
       "domain": [
         "refer",
@@ -3064,4 +3064,5 @@
     }
   }
 }
+
 
