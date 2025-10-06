@@ -3034,6 +3034,34 @@
       ],
       "description": "Yaari admin portal, lets admin to have a clear view of the YAARI userbase"   
     
+    },
+    "project-8" : {
+      "link": "https://github.com/rohitpidishetty/ReferralSystem",
+      "image": "https://github.com/rohitpidishetty/ReferralSystem/blob/main/Design.jpg",
+      "title": "08. Referral System",
+      "domain": [
+        "refer",
+        "referral",
+        "system",
+        "backend",
+        "design",
+        "designing",
+        "architecture",
+        "java",
+        "core",
+        "advanced",
+        "advance",
+        "engineering"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "ReferralSystem - a scalable, modular framework for managing job referrals efficiently. At its core, ReferralSystem uses interface-based design and object serialization to provide a clean, extensible structure that can adapt to multiple companies. Highlights: Polymorphism in Action: Uses the Company interface to enable seamless integration for multiple organizations without changing the core system. Persistence: Stores referral data persistently using Java serialization (.ser files), ensuring data survives between runs. Extensible Commands: Supports CLI commands for committing resumes, admitting and evicting referrals, editing statuses, and viewing data. Encapsulation & Modularity: Core components like Monitor, Value, and Commit keep business logic clean and maintainable."   
+    
     }
   }
 }
+
