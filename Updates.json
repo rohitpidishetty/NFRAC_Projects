@@ -1,5 +1,10 @@
 {
   "news" : [
+     {
+      "date": "21-10-2025",
+      "title": "Launching our eBarnch in Egypt.",
+      "link": "https://nfrac-in.web.app/nfrac_education_egypt"
+    },
     {
       "date": "22-06-2025",
       "title": "Launching our social-media application YAARI- where 'यारी' meets 'दोस्ती'.",
@@ -24,6 +29,11 @@
       "date": "02-09-2024",
       "title": "Launching our Ed-tech portal, ITTacademy. A place to start your programming journey!!",
       "link": "https://itt-academy.web.app/"
+    },
+     {
+      "date": "27-08-2024",
+      "title": "Launching our eBarnch in USA.",
+      "link": "https://nfrac-in.web.app/nfrac_education_usa"
     },
     {
       "date": "18-07-2024",
