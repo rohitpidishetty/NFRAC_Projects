@@ -3088,9 +3088,33 @@
       ],
       "description": "WatchHub is your go-to platform for watching, sharing, and discovering videos from creators around the world. Stream high-quality content, explore trending clips, like and comment on your favorites, and even upload your own videos to share with the community. With personalized recommendations, playlists, and easy content discovery, WatchHub makes video entertainment simple, social, and fun."   
     
+    },
+    "project-10" : {
+      "link": "https://github.com/rohitpidishetty/WatchHub",
+      "image": "https://lh3.googleusercontent.com/gg-dl/ABS2GSkPcaszHRLtHvbjmUPRffXAermovDdamofgGavvf2mgYo5ODRwnCWSCHu4eIGtvoWoiZ-w-ZzD3ep1ReDk0uTx0gv5iwax-8pBkcYx9VXpkcqB5lJClis-KRHRpgYQjyEXDMJ2rcDjsawMK2RoxAL8GYzoSlnluQfHlcRYpec3fBW9gLw=s1024-rj",
+      "title": "10. CrossExecution",
+      "domain": [
+        "cross",
+        "exe",
+        "cebuf",
+        "execution",
+        "c",
+        "python",
+        "java",
+        "js",
+        "core",
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "Cross-Execution Platform – Developed a system that enables multiple programs to communicate and exchange data securely using Base64 serialization. Implemented Java ProcessBuilder() to allow seamless execution of external programs and automated workflows. The platform improves interoperability between applications and supports efficient cross-program data access."
     }
   }
 }
+
 
 
 
