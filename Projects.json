@@ -3088,7 +3088,7 @@
     },
     "project-10": {
       "link": "https://github.com/rohitpidishetty/WatchHub",
-      "image": "https://github.com/rohitpidishetty/CrossExecution-CEBUF/blob/main/arch.png?raw=true",
+      "image": "https://github.com/rohitpidishetty/CrossExecution-CEBUF/blob/main/logo.png?raw=true",
       "title": "10. CrossExecution",
       "domain": [
         "cross",
@@ -3111,4 +3111,5 @@
     }
   }
 }
+
 
