@@ -2723,7 +2723,7 @@
       ],
       "description": "A Full-stack application for Senses lung infection's using deep learning methodologies."
     },
-    "project-7" : {
+    "project-7": {
       "link": "",
       "image": "https://nfrac-in.web.app/departments/garuda.png",
       "title": "07. GARUDA (Programming Language Development)",
@@ -2745,7 +2745,7 @@
       ],
       "description": "GARUDA - Generating Assembly Resources Using Direct Algebra, is a compiler that translates given *.grd files into executable file for execution."
     },
-    "project-8" : {
+    "project-8": {
       "link": "https://itt-academy.web.app",
       "image": "https://itt-academy.web.app/EDU.png",
       "title": "08. ITTacademy (Ed-tech portal)",
@@ -2767,7 +2767,7 @@
       ],
       "description": "ITTacademy is a premier online platform dedicated to transforming the skills and careers of college students and IT professionals alike. We are committed to cultivating an environment that empowers our learners to discover their talents, enhance their skills, and seize opportunities throughout their professional journeys. At ITTacademy, our expert instructors and mentors provide comprehensive guidance and support to help you excel in tech interviews and thrive in the dynamic world of technology. Join ITTacademy today and take the first step towards reaching your coding and career aspirations. Let us assist you in unlocking your full potential and launching a successful tech career!"
     },
-     "project-9" : {
+    "project-9": {
       "link": "https://drive.google.com/file/d/14oUzB0TRRnG-U1DUvjgyQDjWNe-HnCRH/view",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9TmEJA0-UKqAKkU5rxbpCKRvURDTVf0ztSA&s",
       "title": "09. Advanced Brain Tumor Segmentation Using SAM2-UNet",
@@ -2792,8 +2792,8 @@
         "Images/p19c4.png"
       ],
       "description": "Abstract—Image segmentation is one of the key factor in diagnosing glioma patients with brain tumors, this helps the doctor to identify the type of tumor that the patient is bearing and will lead to pre-diagnosis that will help saving the patients life. Analysis of medical images is a specialized domain in computer vision and image processing, this process extracts meaningful insights from the medical image scans, that help in treatment planning and monitoring the patients condition. Deep learning models like CNN’s have shown great promising results in this domain of image segmentation through identifying the complex patterns in the image data. These methods have also shown great results in tumor segmentation, identification of anomalies which assist the healthcare professionals to plan for the treatment. To segment the tumors accurately and effectively, we have used a hybrid model that infuses Segment Anything Model-2 with U-Network as this model possess the ability to perform explicitly well on scarce data and trained this model on Brain Tumor Segmentation challenge 2020 dataset. This architecture is inspired by the U-Networks that works on encoder and decoder architecture. We have also used the Hiera a pre-trained model as the backbone for this architecture to capture multi-scaled features. Adapters are embedded into the encoder to achieve parameter efficient fine-tuning. The dataset used for this experiment has been divided into two parts out of which 80% of the data i.e., out of 369 MRI scans 295 were used for training and 20% of the data i.e., 74 MRI scans were used for testing purpose. The dataset contains four channels of MRI scans of 369 glioma patients as T1, T1ce, T2, T2-flair and segmentation consists Not-tumor (NT), Necrotic and non-enhancing tumor (NCR/NET), Peritumoral edema, GD-enhancing tumor (ET)."
-     },
-    "project-10" : {
+    },
+    "project-10": {
       "link": "https://drive.google.com/file/d/19-G9C85QBsf--Cp3ReJ_FaDr22QRx5R5/view",
       "image": "https://www.shutterstock.com/pt/blog/wp-content/uploads/sites/4/2021/08/deepfake.jpg?w=435&h=435&crop=1",
       "title": "10. Synthetic Media Recognition using Dlib-VGG16 with Multi-head Attention",
@@ -2820,8 +2820,8 @@
       "description": "Abstract—Deepfake is a technology that uses artificial intelligence to create realistic images and even videos making individuals to do or to say something that they haven’t in the real life and due to this reason deepfake detection models have come into picture. Since these deepfake models have come into picture, it was observed that the internet had a surge in the deepfake videos and images which had the potential to harm once feelings, blackmail or threaten the victim, these videos and images have gone viral on the internet thus becoming accessible to everyone with a smartphone leaving a very pathetic impact on the society. These manipulated images and videos have put the victims in a very pathetic and helpless situation due to their speculation among family and friends, this concerning situation has made the victims to face serious consequences, including mental distress and social isolation leading to take their own life. Since then deepfake detection models have come into spot light to address whether an image or a video is real or manipulate a.k.a deep-faked. To underline the problem this paper proposes Synthetic Media Recognition using Dlib-VGG16 with Multi-head attention to detect synthetic deep-faked videos accurately. The celeb-df dataset used in the study contains 157 real videos and 795 fake videos, the faceforensic++ dataset contains 200 real videos and 200 fake videos respectively. Novel deep learning strategies are used to efficiently predict the authenticity of a video using celeb-df & ff++ datasets. The experimental results indicates 97.07% of accuracy, 96.49% of precision, 100% of recall 98.21% of f1 score and 92.51% of area under the curve (AUC) on Celeb-df dataset, 92.81% of accuracy, 92.81% of precision, 100% of recall 96.27% of f1 score and 50.01% of area under the curve (AUC) on Faceforensic++ dataset."
     }
   },
-  "2025" : {
-     "project-1" : {
+  "2025": {
+    "project-1": {
       "link": "https://itt-academy.web.app/class_room",
       "image": "https://itt-academy.web.app/onlineclass.png",
       "title": "01. Dedicated online ClassRoom for ITTacademy",
@@ -2844,7 +2844,7 @@
       ],
       "description": "An online classroom facility that helps students to learn effectively by providing interactive tools, personalized learning paths, real-time feedback, and access to a wide range of educational resources anytime, anywhere."
     },
-    "project-2" : {
+    "project-2": {
       "link": "https://itt-academy.web.app/store",
       "image": "https://itt-academy.web.app/EDU.png",
       "title": "02. ITTacademy Official Merchandise: Gear Up for Success!",
@@ -2877,7 +2877,7 @@
       ],
       "description": "Represent ITT Academy with our exclusive official merchandise! From stylish apparel to must-have accessories, our collection is designed for students, alumni, and tech enthusiasts alike. Gear up for success with ITT Academy!"
     },
-    "project-3" : {
+    "project-3": {
       "link": "https://code-journey-py.web.app/",
       "image": "https://code-journey-py.web.app/icon.png",
       "title": "03. Code Journey – The Ultimate Platform to Master Coding",
@@ -2908,9 +2908,9 @@
         "Images/p19c3.png",
         "Images/p19c4.png"
       ],
-      "description": "Code Journey is an advanced online coding platform designed to enhance the learning and teaching experience through real-time code analysis and feedback. It features a powerful online interpreter that evaluates code submissions and provides detailed feedback based on the input code. This helps developers improve their coding skills by identifying errors, suggesting optimizations, and offering best practices. For educators, Code Journey offers a unique advantage by enabling professors to visualize and understand the structure and logic behind the code. It includes plagiarism detection mechanisms to verify whether the code has been copy-pasted or written from scratch, ensuring academic integrity and promoting original work. With a combination of real-time feedback, insightful analytics, and a supportive learning environment, Code Journey empowers both students and educators to achieve coding excellence."   
+      "description": "Code Journey is an advanced online coding platform designed to enhance the learning and teaching experience through real-time code analysis and feedback. It features a powerful online interpreter that evaluates code submissions and provides detailed feedback based on the input code. This helps developers improve their coding skills by identifying errors, suggesting optimizations, and offering best practices. For educators, Code Journey offers a unique advantage by enabling professors to visualize and understand the structure and logic behind the code. It includes plagiarism detection mechanisms to verify whether the code has been copy-pasted or written from scratch, ensuring academic integrity and promoting original work. With a combination of real-time feedback, insightful analytics, and a supportive learning environment, Code Journey empowers both students and educators to achieve coding excellence."
     },
-    "project-4" : {
+    "project-4": {
       "link": "#",
       "image": "https://veda-org.web.app/Veda%20Icon.png",
       "title": "04. Vedex - Online Veda Interpreter",
@@ -2941,9 +2941,9 @@
         "Images/p19c3.png",
         "Images/p19c4.png"
       ],
-      "description": "Code Journey is an advanced online coding platform designed to enhance the learning and teaching experience through real-time code analysis and feedback. It features a powerful online interpreter that evaluates code submissions and provides detailed feedback based on the input code. This helps developers improve their coding skills by identifying errors, suggesting optimizations, and offering best practices. For educators, Code Journey offers a unique advantage by enabling professors to visualize and understand the structure and logic behind the code. It includes plagiarism detection mechanisms to verify whether the code has been copy-pasted or written from scratch, ensuring academic integrity and promoting original work. With a combination of real-time feedback, insightful analytics, and a supportive learning environment, Code Journey empowers both students and educators to achieve coding excellence."   
+      "description": "Code Journey is an advanced online coding platform designed to enhance the learning and teaching experience through real-time code analysis and feedback. It features a powerful online interpreter that evaluates code submissions and provides detailed feedback based on the input code. This helps developers improve their coding skills by identifying errors, suggesting optimizations, and offering best practices. For educators, Code Journey offers a unique advantage by enabling professors to visualize and understand the structure and logic behind the code. It includes plagiarism detection mechanisms to verify whether the code has been copy-pasted or written from scratch, ensuring academic integrity and promoting original work. With a combination of real-time feedback, insightful analytics, and a supportive learning environment, Code Journey empowers both students and educators to achieve coding excellence."
     },
-    "project-5" : {
+    "project-5": {
       "link": "https://github.com/rohitpidishetty/abstract-syntax-tree",
       "image": "https://i0.wp.com/pybit.es/wp-content/uploads/2021/05/tree-sketch.png?w=750&ssl=1",
       "title": "05. Abstract Syntax Tree (Lexer & Parser)",
@@ -2969,9 +2969,9 @@
         "Images/p19c3.png",
         "Images/p19c4.png"
       ],
-      "description": "This repo consists a lexer and a parser that helps in parsing a mathematical expression. The lexer converts the stream of chars into tokens, the parser constructs an abstract syntax tree. You can either visualize the AST or get the JSON of the expression after parsing."   
+      "description": "This repo consists a lexer and a parser that helps in parsing a mathematical expression. The lexer converts the stream of chars into tokens, the parser constructs an abstract syntax tree. You can either visualize the AST or get the JSON of the expression after parsing."
     },
-    "project-6" : {
+    "project-6": {
       "link": "https://yaari-jud.web.app/",
       "image": "https://yaari-jud.web.app/assets/logo.png",
       "title": "06. YAARI - जीवनस्य क्षणं स्पृहय!",
@@ -2998,9 +2998,9 @@
         "Images/p19c3.png",
         "Images/p19c4.png"
       ],
-      "description": "Auto-clearing messages every 24 hours, seen status via eye icon, photo sharing in chats, private profiles, post interactions (like/dislike/comment/copy/delete), smart friend suggestions with instant search, friend requests and online status indicator, real-time notifications for posts and messages, post uploads with descriptions and location tags, home screen feed of all posts, end-to-end encrypted chats, 2FA with email OTP, and upcoming AI-powered features."   
+      "description": "Auto-clearing messages every 24 hours, seen status via eye icon, photo sharing in chats, private profiles, post interactions (like/dislike/comment/copy/delete), smart friend suggestions with instant search, friend requests and online status indicator, real-time notifications for posts and messages, post uploads with descriptions and location tags, home screen feed of all posts, end-to-end encrypted chats, 2FA with email OTP, and upcoming AI-powered features."
     },
-    "project-7" : {
+    "project-7": {
       "link": "https://yaari-dba.web.app/",
       "image": "https://yaari-jud.web.app/assets/logo.png",
       "title": "07. YAARI - Admin Portal",
@@ -3032,10 +3032,9 @@
         "Images/p19c3.png",
         "Images/p19c4.png"
       ],
-      "description": "Yaari admin portal, lets admin to have a clear view of the YAARI userbase"   
-    
+      "description": "Yaari admin portal, lets admin to have a clear view of the YAARI userbase"
     },
-    "project-8" : {
+    "project-8": {
       "link": "https://github.com/rohitpidishetty/ReferralSystem",
       "image": "https://github.com/rohitpidishetty/ReferralSystem/blob/main/Design.jpg?raw=true",
       "title": "08. Referral System",
@@ -3059,10 +3058,9 @@
         "Images/p19c3.png",
         "Images/p19c4.png"
       ],
-      "description": "ReferralSystem - a scalable, modular framework for managing job referrals efficiently. At its core, ReferralSystem uses interface-based design and object serialization to provide a clean, extensible structure that can adapt to multiple companies. Highlights: Polymorphism in Action: Uses the Company interface to enable seamless integration for multiple organizations without changing the core system. Persistence: Stores referral data persistently using Java serialization (.ser files), ensuring data survives between runs. Extensible Commands: Supports CLI commands for committing resumes, admitting and evicting referrals, editing statuses, and viewing data. Encapsulation & Modularity: Core components like Monitor, Value, and Commit keep business logic clean and maintainable."   
-    
+      "description": "ReferralSystem - a scalable, modular framework for managing job referrals efficiently. At its core, ReferralSystem uses interface-based design and object serialization to provide a clean, extensible structure that can adapt to multiple companies. Highlights: Polymorphism in Action: Uses the Company interface to enable seamless integration for multiple organizations without changing the core system. Persistence: Stores referral data persistently using Java serialization (.ser files), ensuring data survives between runs. Extensible Commands: Supports CLI commands for committing resumes, admitting and evicting referrals, editing statuses, and viewing data. Encapsulation & Modularity: Core components like Monitor, Value, and Commit keep business logic clean and maintainable."
     },
-    "project-9" : {
+    "project-9": {
       "link": "https://github.com/rohitpidishetty/WatchHub",
       "image": "https://www.freeiconspng.com/uploads/video-player-icon-15.png",
       "title": "09. WatchHub",
@@ -3086,10 +3084,9 @@
         "Images/p19c3.png",
         "Images/p19c4.png"
       ],
-      "description": "WatchHub is your go-to platform for watching, sharing, and discovering videos from creators around the world. Stream high-quality content, explore trending clips, like and comment on your favorites, and even upload your own videos to share with the community. With personalized recommendations, playlists, and easy content discovery, WatchHub makes video entertainment simple, social, and fun."   
-    
+      "description": "WatchHub is your go-to platform for watching, sharing, and discovering videos from creators around the world. Stream high-quality content, explore trending clips, like and comment on your favorites, and even upload your own videos to share with the community. With personalized recommendations, playlists, and easy content discovery, WatchHub makes video entertainment simple, social, and fun."
     },
-    "project-10" : {
+    "project-10": {
       "link": "https://github.com/rohitpidishetty/WatchHub",
       "image": "https://lh3.googleusercontent.com/gg-dl/ABS2GSkPcaszHRLtHvbjmUPRffXAermovDdamofgGavvf2mgYo5ODRwnCWSCHu4eIGtvoWoiZ-w-ZzD3ep1ReDk0uTx0gv5iwax-8pBkcYx9VXpkcqB5lJClis-KRHRpgYQjyEXDMJ2rcDjsawMK2RoxAL8GYzoSlnluQfHlcRYpec3fBW9gLw=s1024-rj",
       "title": "10. CrossExecution",
@@ -3102,7 +3099,7 @@
         "python",
         "java",
         "js",
-        "core",
+        "core"
       ],
       "relatedImages": [
         "Images/p19c1.png",
@@ -3112,10 +3109,5 @@
       ],
       "description": "Cross-Execution Platform – Developed a system that enables multiple programs to communicate and exchange data securely using Base64 serialization. Implemented Java ProcessBuilder() to allow seamless execution of external programs and automated workflows. The platform improves interoperability between applications and supports efficient cross-program data access."
     }
-  
+  }
 }
-
-
-
-
-
