@@ -3061,8 +3061,36 @@
       ],
       "description": "ReferralSystem - a scalable, modular framework for managing job referrals efficiently. At its core, ReferralSystem uses interface-based design and object serialization to provide a clean, extensible structure that can adapt to multiple companies. Highlights: Polymorphism in Action: Uses the Company interface to enable seamless integration for multiple organizations without changing the core system. Persistence: Stores referral data persistently using Java serialization (.ser files), ensuring data survives between runs. Extensible Commands: Supports CLI commands for committing resumes, admitting and evicting referrals, editing statuses, and viewing data. Encapsulation & Modularity: Core components like Monitor, Value, and Commit keep business logic clean and maintainable."   
     
+    },
+    "project-9" : {
+      "link": "https://github.com/rohitpidishetty/WatchHub",
+      "image": "https://www.freeiconspng.com/uploads/video-player-icon-15.png",
+      "title": "09. WatchHub",
+      "domain": [
+        "watch",
+        "video",
+        "player",
+        "videos",
+        "tube",
+        "cinema",
+        "hls",
+        "backend",
+        "full",
+        "stack",
+        "fullstack",
+        "frontend"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "WatchHub is your go-to platform for watching, sharing, and discovering videos from creators around the world. Stream high-quality content, explore trending clips, like and comment on your favorites, and even upload your own videos to share with the community. With personalized recommendations, playlists, and easy content discovery, WatchHub makes video entertainment simple, social, and fun."   
+    
     }
   }
 }
+
 
 
