@@ -3108,8 +3108,61 @@
         "Images/p19c4.png"
       ],
       "description": "Cross-Execution Platform – Developed a system that enables multiple programs to communicate and exchange data securely using Base64 serialization. Implemented Java ProcessBuilder() to allow seamless execution of external programs and automated workflows. The platform improves interoperability between applications and supports efficient cross-program data access."
+    },
+    "project-11": {
+      "link": "https://github.com/rohitpidishetty/YaariSynthAuditor-XGBClassifier",
+      "image": "https://www.kindpng.com/picc/m/346-3460446_deep-learning-logo-png-transparent-png.png",
+      "title": "11. Yaari Synth Text Auditor - XGBoost Classification",
+      "domain": [
+        "yaari",
+        "synth",
+        "text",
+        "hoax",
+        "fake",
+        "ml",
+        "xgboost",
+        "classification",
+        "classifier",
+        "deep",
+        "machine",
+        "learning"
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "This model is designed to automatically identify whether a piece of news is real or fake. By analyzing the text of news articles, headlines, or social media posts, it learns patterns that are common in misleading or false information. Once trained, the model can quickly scan new content and flag it as either trustworthy or potentially fake, helping readers, platforms, and organizations avoid spreading misinformation. It works quietly in the background, making decisions based on patterns in the text rather than requiring human review for every article."
+    },
+    "project-12": {
+      "link": "https://github.com/rohitpidishetty/Yaari-Synth-Auditor",
+      "image": "https://www.kindpng.com/picc/m/346-3460446_deep-learning-logo-png-transparent-png.png",
+      "title": "11. Yaari Synth Text Auditor - BiLSTM",
+      "domain": [
+        "yaari",
+        "synth",
+        "text",
+        "hoax",
+        "fake",
+        "ml",
+        "lstm",
+        "classification",
+        "classifier",
+        "deep",
+        "machine",
+        "learning",
+      ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "This model uses a type of artificial intelligence called BiLSTM to detect whether news is real or fake. It reads the text of news articles or social media posts in both directions—forward and backward—to better understand the context and meaning of each word. By learning patterns in the language, it can identify misleading or false information. Once trained, the model can quickly flag news as trustworthy or potentially fake, helping people and platforms avoid spreading misinformation."
     }
   }
 }
+
 
 
