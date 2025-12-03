@@ -3138,7 +3138,7 @@
     "project-12": {
       "link": "https://github.com/rohitpidishetty/Yaari-Synth-Auditor",
       "image": "https://www.kindpng.com/picc/m/346-3460446_deep-learning-logo-png-transparent-png.png",
-      "title": "11. Yaari Synth Text Auditor - BiLSTM",
+      "title": "12. Yaari Synth Text Auditor - BiLSTM",
       "domain": [
         "yaari",
         "synth",
@@ -3163,6 +3163,7 @@
     }
   }
 }
+
 
 
 
