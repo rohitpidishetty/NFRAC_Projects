@@ -1,5 +1,10 @@
 {
   "news" : [
+    {
+      "date": "27-12-2025",
+      "title": "Working on EdFlix",
+      "link": "https://itt-academy.web.app/"
+    },
      {
       "date": "21-10-2025",
       "title": "Launching our ITTacademy's eBarnch in Egypt.",
