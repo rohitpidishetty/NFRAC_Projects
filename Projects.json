@@ -3215,8 +3215,10 @@
       ],
       "description": "Squash is a custom lossless file compression and archiving tool that uses Huffman encoding and bit-level packing to efficiently compress text-based files and directory structures into a single .tar.sq archive, with full support for accurate decompression and file restoration."
     }
-  }
+  },
+  "2026": {}
 }
+
 
 
 
