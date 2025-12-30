@@ -3216,8 +3216,49 @@
       "description": "Squash is a custom lossless file compression and archiving tool that uses Huffman encoding and bit-level packing to efficiently compress text-based files and directory structures into a single .tar.sq archive, with full support for accurate decompression and file restoration."
     }
   },
-  "2026": {}
+  "2026": {
+      "project-1": {
+      "link": "#",
+      "image": "https://itt-academy.web.app/EDU.png",
+      "title": "01. EdFlix - Study.Stream.Succeed",
+      "domain":[
+        "itta",
+        "education",
+        "academy",
+        "information",
+        "training",
+        "edu",
+        "nfrac",
+        "teaching",
+        "ed",
+        "flix",
+        "edflix",
+        "videos",
+        "programming",
+        "learn",
+        "spring",
+        "boot",
+        "full",
+        "stack",
+        "fullstack",
+        "front",
+        "back",
+        "frontend",
+        "backend",
+        "react",
+        "java"
+        ],
+      "relatedImages": [
+        "Images/p19c1.png",
+        "Images/p19c2.png",
+        "Images/p19c3.png",
+        "Images/p19c4.png"
+      ],
+      "description": "EdFlix is a secure, cloud-based video streaming platform that leverages Spring Boot backend services and Azure cloud infrastructure to deliver high-quality, on-demand educational content. It provides device registration, user authentication, and content authorization through SSA tokens, ensuring secure and controlled access. Videos are stored in HLS format on Azure Blob Storage for adaptive streaming, while Firebase is used for managing user data, subscriptions, and content metadata. EdFlix supports seamless content delivery, playback tracking, and scalable deployment, enabling educators and learners to access and interact with educational videos efficiently and securely."
+      }
+  }
 }
+
 
 
 
