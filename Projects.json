@@ -3218,7 +3218,7 @@
   },
   "2026": {
       "project-1": {
-      "link": "#",
+      "link": "https://edflix-ittacademy.web.app/",
       "image": "https://itt-academy.web.app/EDU.png",
       "title": "01. EdFlix - Study.Stream.Succeed",
       "domain":[
@@ -3291,6 +3291,7 @@
       }
   }
 }
+
 
 
 
