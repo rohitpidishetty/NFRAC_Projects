@@ -3417,9 +3417,76 @@
         "Images/p19c4.png"
       ],
       "description": "ITTaHub is a developer-first collaboration platform by ITTacademy that brings code repositories, secure file sharing, and community-driven development into one unified workspace. Built for ITTaians, students, and engineers, it replaces scattered tools and unsafe file-sharing practices with a centralized, scalable system designed for real-world development workflows. ITTaHub supports public and private repositories, open contribution, and secure collaboration, making it easy to build, share, and learn together—all completely free and driven by the community."
-      }
+      },
+    "project-4": {
+  "link": "https://drive.google.com/drive/folders/1CjvEiV6cC7cq8gOu6-c9hy-aZHMx0i2s?usp=drive_link",
+  "image": "Images/ittah.png",
+  "title": "04. ittah - CLI",
+  "domain": [
+    "ittah",
+    "cli",
+    "commandline",
+    "terminal",
+    "shell",
+    "automation",
+    "developer",
+    "tool",
+    "utility",
+    "filesystem",
+    "file-management",
+    "directory",
+    "create",
+    "delete",
+    "scan",
+    "upload",
+    "download",
+    "secure",
+    "encryption",
+    "authentication",
+    "authorization",
+    "permissions",
+    "access-control",
+    "java",
+    "backend",
+    "system",
+    "os",
+    "windows",
+    "scripting",
+    "devops",
+    "workflow",
+    "productivity",
+    "repository",
+    "version-control",
+    "deployment",
+    "integration",
+    "infrastructure",
+    "cloud",
+    "network",
+    "engineering",
+    "software",
+    "code",
+    "programming",
+    "tools",
+    "management",
+    "monitoring",
+    "performance",
+    "interface",
+    "startup",
+    "innovation",
+    "technology"
+  ],
+  "relatedImages": [
+    "Images/p20c1.png",
+    "Images/p20c2.png",
+    "Images/p20c3.png",
+    "Images/p20c4.png"
+  ],
+  "description": "ittah is a powerful Java-based Command Line Interface (CLI) tool designed to automate secure file operations, system-level workflows, and development tasks directly from the terminal. It enables developers to create, manage, scan, upload, and securely interact with files and directories across local and cloud environments with authentication and access control. Built for productivity and real-world engineering workflows, ittah simplifies automation, improves system-level interaction, and enhances secure development operations through a centralized CLI experience."
+}
+
   }
 }
+
 
 
 
