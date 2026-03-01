@@ -3482,10 +3482,52 @@
     "Images/p20c4.png"
   ],
   "description": "ittah is a powerful Java-based Command Line Interface (CLI) tool designed to automate secure file operations, system-level workflows, and development tasks directly from the terminal. It enables developers to create, manage, scan, upload, and securely interact with files and directories across local and cloud environments with authentication and access control. Built for productivity and real-world engineering workflows, ittah simplifies automation, improves system-level interaction, and enhances secure development operations through a centralized CLI experience."
+},
+"project-5": {
+  "link": "https://url-az.web.app",
+  "image": "https://url-az.web.app/logo.png",
+  "title": "05. Link Condenser - Shorten long URLS",
+  "domain": [
+    "url",
+"shortener",
+"link",
+"shortener",
+"custom",
+"short",
+"links",
+"tiny",
+"url",
+"generator",
+"short",
+"link",
+"analytics",
+"link",
+"management",
+"tool",
+"shareable",
+"links",
+"smart",
+"url",
+"shortener",
+"online",
+"link",
+"condenser",
+"trackable",
+"short",
+"urls"
+  ],
+  "relatedImages": [
+    "Images/p20c1.png",
+    "Images/p20c2.png",
+    "Images/p20c3.png",
+    "Images/p20c4.png"
+  ],
+  "description": "Link Condenser is a smart and user-friendly URL shortening service that transforms long, cumbersome links into compact, easy-to-share URLs. Designed for social media, email campaigns, and online content, it allows users to create short links instantly, customize aliases for branding, and track analytics such as click counts, locations, and referral sources. With a focus on security and reliability, Link Condenser ensures safe link sharing while providing insights to optimize engagement. Whether for personal use or professional marketing, it makes managing and sharing links simple, efficient, and effective."
 }
 
   }
 }
+
 
 
 
