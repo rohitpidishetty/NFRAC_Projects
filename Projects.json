@@ -3527,7 +3527,7 @@
     "project-6": {
       "link": "https://github.com/rohitpidishetty/MessageNX-Driver",
       "image": "https://github.com/rohitpidishetty/MessageNX-Driver/blob/main/MessageNX.png?raw=true",
-      "title": "06. MessageNX - (Producer-Consumer messaging API)",
+      "title": "06. MessageNX SDK - (Producer-Consumer messaging API)",
       "domain": [
         "api",
         "application",
@@ -3627,3 +3627,4 @@
     }
   }
 }
+
