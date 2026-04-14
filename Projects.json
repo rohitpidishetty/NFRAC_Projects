@@ -3626,7 +3626,7 @@
       "description": "Clip Away is an AI-powered background removal tool that leverages the rembg library with the U2NetP deep learning model to accurately segment and remove backgrounds from images. It allows users to isolate the foreground object, creating clean cutouts for photography, e-commerce, social media content, or creative projects. The tool works efficiently on single images and supports batch processing, making image editing faster and fully automated. Built with Python, it combines simplicity with advanced image segmentation for precise and professional results."
     },
     "project-8": {
-      "link": "#",
+      "link": "https://play.google.com/store/apps/dev?id=6722986876321914089&_gl=1*26wjbc*_up*MQ..&gclid=Cj0KCQjwqPLOBhCiARIsAKRMPZr43YD-Iwc0wcl5FJoPHna5hOyMfbWQmmK98u06GpLdwWsr5LxupaQaAmMhEALw_wcB&utm_source=na_Med",
       "image": "https://rohitpidishetty.github.io/PicSafe/public/icon.png",
       "title": "08. PicSafe - Keep your pics safe with PicSafe !",
       "domain": [
