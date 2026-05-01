@@ -1,0 +1,98 @@
+[
+  {
+    "id": "140600000",
+    "heading": "Teaching & Education Core",
+    "title": "C Beginner Friendly Instructor",
+    "location": "Remote / Hybrid",
+    "type": "Part-time / Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Teach fundamentals of C programming for absolute beginners.",
+    "longDesc": "As an instructor, you will teach C programming from basics including syntax, memory concepts, and problem-solving approaches for beginner students.",
+    "responsibilities": [
+      "Teach C programming fundamentals.",
+      "Conduct coding exercises and beginner projects.",
+      "Build student problem-solving skills."
+    ]
+  },
+  {
+    "id": "140600001",
+    "heading": "Teaching & Education Core",
+    "title": "Core Java Instructor",
+    "location": "Remote / Hybrid",
+    "type": "Part-time / Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Teach Core Java concepts including OOP and real-world applications.",
+    "longDesc": "Responsible for teaching Java programming with focus on OOP, collections, multithreading, and backend fundamentals.",
+    "responsibilities": [
+      "Teach Core Java and OOP concepts.",
+      "Conduct coding assignments and evaluations.",
+      "Guide students in Java-based mini projects."
+    ]
+  },
+  {
+    "id": "140600002",
+    "heading": "Teaching & Education Core",
+    "title": "Python with ML Instructor",
+    "location": "Remote / Hybrid",
+    "type": "Part-time / Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Teach Python programming and Machine Learning fundamentals.",
+    "longDesc": "You will teach Python from basics to advanced ML concepts including data preprocessing, model building, and evaluation techniques.",
+    "responsibilities": [
+      "Teach Python programming and ML concepts.",
+      "Guide students through ML projects.",
+      "Explain real-world data science applications."
+    ]
+  },
+  {
+    "id": "140600003",
+    "heading": "Teaching & Education Core",
+    "title": "DSA using Java Instructor",
+    "location": "Remote / Hybrid",
+    "type": "Part-time / Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Teach Data Structures and Algorithms using Java.",
+    "longDesc": "Focus on problem-solving, competitive programming, and DSA concepts using Java with real interview-level questions.",
+    "responsibilities": [
+      "Teach Data Structures and Algorithms.",
+      "Conduct problem-solving sessions.",
+      "Prepare students for coding interviews."
+    ]
+  },
+  {
+    "id": "140600004",
+    "heading": "Teaching & Education Core",
+    "title": "HTML & CSS Instructor",
+    "location": "Remote / Hybrid",
+    "type": "Part-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Teach web design fundamentals using HTML and CSS.",
+    "longDesc": "Responsible for teaching structure, styling, and responsive web design principles for beginners.",
+    "responsibilities": [
+      "Teach HTML structure and CSS styling.",
+      "Build responsive UI projects.",
+      "Guide students in web design basics."
+    ]
+  },
+  {
+    "id": "140600005",
+    "heading": "Teaching & Education Core",
+    "title": "JavaScript Instructor",
+    "location": "Remote / Hybrid",
+    "type": "Part-time / Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Teach JavaScript fundamentals and modern ES6+ concepts.",
+    "longDesc": "Covers JavaScript basics to advanced concepts including DOM, async programming, and APIs.",
+    "responsibilities": [
+      "Teach JavaScript fundamentals.",
+      "Guide DOM manipulation and async programming.",
+      "Conduct project-based learning sessions."
+    ]
+  }
+]
