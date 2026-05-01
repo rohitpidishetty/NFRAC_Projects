@@ -1,6 +1,6 @@
 [
   {
-    "id": "mcg-fullstack",
+    "id": "2901001",
     "heading": "Strategize for Growth",
     "title": "Fullstack Developer (React & Node.js)",
     "location": "Remote / Client-Site",
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "id": "mcg-backend",
+    "id": "2901002",
     "heading": "High-Performance Engineering",
     "title": "Backend Engineer (Java / Python)",
     "location": "Remote",
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "id": "mcg-mobile",
+    "id": "2901003",
     "heading": "Mobile Connectivity",
     "title": "Mobile Developer (Android / Flutter)",
     "location": "Hybrid / Texas",
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "id": "mcg-frontend",
+    "id": "2901004",
     "heading": "Visual Excellence",
     "title": "Frontend Developer (React.js)",
     "location": "Remote",
