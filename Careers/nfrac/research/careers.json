@@ -1,0 +1,66 @@
+[
+  {
+    "id": "300400100",
+    "heading": "Research & Development Core",
+    "title": "AI/ML Research Engineer (NFRAC Lab)",
+    "location": "Remote / Hybrid / Lab",
+    "type": "Full-time / Research",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Advance foundational and applied research in Artificial Intelligence and Machine Learning.",
+    "longDesc": "As an AI/ML Research Engineer at NFRAC, you will work on deep learning models, optimization techniques, and next-generation intelligent systems that power internal and external ecosystem tools.",
+    "responsibilities": [
+      "Research and develop novel machine learning architectures.",
+      "Work on model optimization and large-scale training pipelines.",
+      "Collaborate on AI-driven internal systems and frameworks."
+    ]
+  },
+  {
+    "id": "300400101",
+    "heading": "Research & Development Core",
+    "title": "Cyber Security Research Engineer",
+    "location": "Remote / Hybrid / Secure Lab",
+    "type": "Full-time / Research",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Research advanced cybersecurity systems, threat detection, and secure architectures.",
+    "longDesc": "You will focus on vulnerability research, encryption systems, threat modeling, and designing secure infrastructures for distributed systems across NFRAC divisions.",
+    "responsibilities": [
+      "Research system vulnerabilities and attack vectors.",
+      "Design secure authentication and encryption frameworks.",
+      "Build threat detection and prevention models."
+    ]
+  },
+  {
+    "id": "300400102",
+    "heading": "Research & Development Core",
+    "title": "Compiler Research Engineer",
+    "location": "Remote / Hybrid / Lab",
+    "type": "Full-time / Research",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Work on compiler design, optimization, and language processing systems.",
+    "longDesc": "This role focuses on designing modern compilers, intermediate representations, and optimization techniques for custom languages and high-performance systems like Garuda and internal tooling.",
+    "responsibilities": [
+      "Design compiler pipelines and IR structures.",
+      "Implement optimization and code generation techniques.",
+      "Research language design and execution models."
+    ]
+  },
+  {
+    "id": "300400103",
+    "heading": "Research & Development Core",
+    "title": "Algorithms Research Engineer",
+    "location": "Remote / Hybrid / Lab",
+    "type": "Full-time / Research",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Research advanced algorithms for optimization, graphs, and system efficiency.",
+    "longDesc": "You will explore new algorithmic paradigms, complexity reduction techniques, and real-world optimization problems for scalable systems and distributed computing.",
+    "responsibilities": [
+      "Develop and analyze advanced algorithms.",
+      "Optimize computational efficiency for large-scale systems.",
+      "Work on graph theory, optimization, and complexity problems."
+    ]
+  }
+]
