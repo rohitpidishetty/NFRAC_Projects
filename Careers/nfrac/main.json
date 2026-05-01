@@ -1,34 +1,54 @@
-[
-  {
-    "id": "1",
-    "heading": "Innovate at the Core",
-    "title": "NFRAC Laboratory",
-    "desc": "Join the autonomous core of NFRAC. Contribute to fundamental research and development across VPLD, AIRD, CSRD, and GPLD to build the tools and frameworks that power our ecosystem.",
-    "status": "Click to explore roles",
-    "navigate": "/"
-  },
-  {
-    "id": "2",
-    "heading": "Mentor Future Talent",
-    "title": "ITTacademy",
-    "desc": "Dedicated to the Training & Education wing. Lead instruction in programming languages and core computer science fundamentals to prepare the next generation of engineers.",
-    "status": "Click to explore roles",
-    "navigate": "/"
-  },
-  {
-    "id": "3",
-    "heading": "Architect Infrastructure",
-    "title": "Antar Core",
-    "desc": "Join the central engineering backbone. Build, maintain, and optimize the proprietary infrastructure and internal tools that power the distribution and operations of all other divisions.",
-    "status": "Click to explore roles",
-    "navigate": "/"
-  },
-  {
-    "id": "4",
-    "heading": "Strategize for Growth",
-    "title": "MCG",
-    "desc": "Drive technical strategy and high-level client engagement. Bridge the gap between complex business challenges and engineering excellence in our independent consulting wing.",
-    "status": "Click to explore roles",
-    "navigate": "vtc/mcg"
-  }
-]
+{
+  "data": [
+    {
+      "id": "1",
+      "heading": "Innovate at the Core",
+      "title": "NFRAC Laboratory",
+      "desc": "Join the autonomous core of NFRAC. Contribute to fundamental research and development across VPLD, AIRD, CSRD, and GPLD to build the tools and frameworks that power our ecosystem.",
+      "status": "Click to explore roles",
+      "navigate": "/"
+    },
+    {
+      "id": "2",
+      "heading": "Mentor Future Talent",
+      "title": "ITTacademy",
+      "desc": "Dedicated to the Training & Education wing. Lead instruction in programming languages and core computer science fundamentals to prepare the next generation of engineers.",
+      "status": "Click to explore roles",
+      "navigate": "/"
+    },
+    {
+      "id": "3",
+      "heading": "Architect Infrastructure",
+      "title": "Antar Core",
+      "desc": "Join the central engineering backbone. Build, maintain, and optimize the proprietary infrastructure and internal tools that power the distribution and operations of all other divisions.",
+      "status": "Click to explore roles",
+      "navigate": "/"
+    },
+    {
+      "id": "4",
+      "heading": "Strategize for Growth",
+      "title": "MCG",
+      "desc": "Drive technical strategy and high-level client engagement. Bridge the gap between complex business challenges and engineering excellence in our independent consulting wing.",
+      "status": "Click to explore roles",
+      "navigate": "vtc/mcg"
+    }
+  ],
+  "ptrs": [
+    {
+      "scrollId": "1",
+      "title": "Research & Development Wing"
+    },
+    {
+      "scrollId": "2",
+      "title": "Training & Education Wing"
+    },
+    {
+      "scrollId": "3",
+      "title": "Viśvakarmān Technological Center"
+    },
+    {
+      "scrollId": "4",
+      "title": "MCG"
+    }
+  ]
+}
