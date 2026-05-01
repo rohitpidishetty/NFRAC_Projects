@@ -9,7 +9,7 @@ For each wing, there is a careers.json file inside Careers/ folder.
 
 New openings shall be updated here, just make sure to update the JSON and the jobs at the users end will be automatically sorted (Recent first).
 
-This is how a job should be posted.
+This is how a job should be posted. (Same format for all the divisions)
 
 ```
 {
