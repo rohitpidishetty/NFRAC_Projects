@@ -1,0 +1,82 @@
+[
+  {
+    "id": "200400001",
+    "heading": "Core Platform Engineering",
+    "title": "Fullstack Tool Developer (React & Node.js)",
+    "location": "Remote / VTC Core",
+    "type": "Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-04-28T10:00:00Z",
+    "shortDesc": "Build internal systems that power the entire VTC ecosystem and its engineering tools.",
+    "longDesc": "As a Fullstack Tool Developer in VTC, you will design and develop internal platforms, dashboards, and developer tools that support all divisions including NFRAC, ITTacademy, and Antar Core.",
+    "responsibilities": [
+      "Develop scalable internal dashboards for system monitoring and analytics.",
+      "Build reusable React component libraries for VTC-wide use.",
+      "Design and maintain Node.js backend services powering internal tools."
+    ]
+  },
+  {
+    "id": "200400002",
+    "heading": "Systems & Backend Infrastructure",
+    "title": "Backend Tool Engineer (Java / Python)",
+    "location": "Remote",
+    "type": "Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-04-29T14:30:00Z",
+    "shortDesc": "Engineer the backbone services that support internal tooling and automation systems.",
+    "longDesc": "You will work on high-performance backend systems that power automation, data pipelines, and internal APIs across VTC’s engineering ecosystem.",
+    "responsibilities": [
+      "Build internal APIs for tool orchestration and automation workflows.",
+      "Optimize system performance for large-scale internal operations.",
+      "Implement secure authentication and role-based access control systems."
+    ]
+  },
+  {
+    "id": "200400003",
+    "heading": "Developer Experience (DX)",
+    "title": "DevTools Engineer (CLI / Platform Tools)",
+    "location": "Remote / VTC Core",
+    "type": "Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-04-30T09:15:00Z",
+    "shortDesc": "Improve developer productivity by building powerful internal tooling and CLI systems.",
+    "longDesc": "Join the VTC DevTools team to build command-line tools, automation scripts, and internal SDKs that streamline development across all divisions.",
+    "responsibilities": [
+      "Design CLI tools for deployment, monitoring, and automation.",
+      "Build internal SDKs for cross-team usage.",
+      "Improve CI/CD workflows and internal development pipelines."
+    ]
+  },
+  {
+    "id": "200400004",
+    "heading": "Frontend Systems & UX Tools",
+    "title": "Frontend Tool Engineer (React.js / UI Systems)",
+    "location": "Remote",
+    "type": "Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-04-30T11:45:00Z",
+    "shortDesc": "Design internal UI systems and reusable component frameworks for VTC tools.",
+    "longDesc": "You will build and maintain the design system and UI infrastructure that powers all internal VTC applications, ensuring consistency and performance.",
+    "responsibilities": [
+      "Build reusable UI component libraries in React.",
+      "Develop internal design systems and documentation portals.",
+      "Optimize frontend performance for tool-heavy applications."
+    ]
+  },
+  {
+    "id": "200400005",
+    "heading": "Automation & Intelligence Layer",
+    "title": "AI Systems Engineer (Tooling & Automation)",
+    "location": "Remote / Hybrid",
+    "type": "Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-05-01T08:00:00Z",
+    "shortDesc": "Integrate AI into internal tools for automation, optimization, and decision support.",
+    "longDesc": "Work on embedding machine learning and intelligent automation into VTC systems to enhance productivity across engineering, education, and infrastructure teams.",
+    "responsibilities": [
+      "Build AI-powered internal assistants for developer workflows.",
+      "Implement automation pipelines using ML models and APIs.",
+      "Enhance internal tools with predictive analytics capabilities."
+    ]
+  }
+]
