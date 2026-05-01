@@ -1,0 +1,66 @@
+{
+  {
+    "id": "mcg-fullstack",
+    "heading": "Strategize for Growth",
+    "title": "Fullstack Developer (React & Node.js)",
+    "location": "Remote / Client-Site",
+    "type": "Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-04-28T10:00:00Z",
+    "shortDesc": "Bridge the gap between complex business challenges and high-performance engineering...",
+    "longDesc": "As a Fullstack Developer at MCG, you will lead the end-to-end delivery of client-facing applications, ensuring seamless integration between polished frontend interfaces and scalable backend services.",
+    "responsibilities": [
+      "Build responsive, Apple-inspired UI/UX using React.js and modern CSS.",
+      "Develop robust APIs and microservices to support high-traffic client platforms.",
+      "Architect database schemas that prioritize data integrity and performance."
+    ]
+  },
+  {
+    "id": "mcg-backend",
+    "heading": "High-Performance Engineering",
+    "title": "Backend Engineer (Java / Python)",
+    "location": "Remote",
+    "type": "Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-04-29T14:30:00Z",
+    "shortDesc": "Develop the scalable backbone for enterprise-grade consulting projects...",
+    "longDesc": "MCG is looking for Backend Specialists to build the core logic of our consulting solutions. You will work extensively with Java Spring Boot or Python FastAPI to ensure reliability and observability.",
+    "responsibilities": [
+      "Design and implement high-throughput REST and GraphQL APIs.",
+      "Optimize backend performance and ensure system stability under heavy loads.",
+      "Implement advanced security protocols and content validation logic."
+    ]
+  },
+  {
+    "id": "mcg-mobile",
+    "heading": "Mobile Connectivity",
+    "title": "Mobile Developer (Android / Flutter)",
+    "location": "Hybrid / Texas",
+    "type": "Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-04-30T09:15:00Z",
+    "shortDesc": "Create hyper-local mobile experiences for a global user base...",
+    "longDesc": "Join our mobile team to build high-performance applications. Whether working natively on Android or using Flutter for cross-platform efficiency, you will focus on real-time geographical intelligence.",
+    "responsibilities": [
+      "Develop fluid mobile interfaces with a focus on minimalist design.",
+      "Integrate location-based services and real-time data synchronization.",
+      "Ensure offline-first capabilities and smooth performance across devices."
+    ]
+  },
+  {
+    "id": "mcg-frontend",
+    "heading": "Visual Excellence",
+    "title": "Frontend Developer (React.js)",
+    "location": "Remote",
+    "type": "Full-time",
+    "status": "Actively hiring",
+    "postedAt": "2026-04-30T11:45:00Z",
+    "shortDesc": "Craft premium, glassmorphic interfaces for specialized client solutions...",
+    "longDesc": "We are seeking Frontend experts who prioritize UI/UX excellence. You will be responsible for implementing the 'Apple-feel' across all MCG client portals and internal dashboards.",
+    "responsibilities": [
+      "Translate complex design mockups into clean, performant React components.",
+      "Maintain a consistent, minimalist aesthetic across multiple client projects.",
+      "Optimize web applications for maximum speed and scalability."
+    ]
+  }
+}
