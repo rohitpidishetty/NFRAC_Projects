@@ -1,98 +1,94 @@
 [
   {
     "id": "140600000",
-    "heading": "Teaching & Education Core",
-    "title": "C Instructor",
-    "location": "Remote / Hybrid",
-    "type": "Part-time / Full-time",
+    "heading": "Python Instructor / Machine Learning Trainer",
+    "title": "Python & Machine Learning Mentor (Beginner to Advanced)",
+    "location": "Remote",
+    "type": "Part-time / Contract",
     "status": "Actively hiring",
     "postedAt": "2026-05-01T08:00:00Z",
-    "shortDesc": "Teach fundamentals of C programming for absolute beginners.",
-    "longDesc": "As an instructor, you will teach C programming from basics including syntax, memory concepts, and problem-solving approaches for beginner students.",
+    "shortDesc": "Teach Python from fundamentals to advanced concepts and guide students in building real-world machine learning projects.",
+    "longDesc": "We are looking for a passionate and skilled Python Instructor who can teach students from absolute beginner level to advanced Python programming. The role involves delivering structured lessons covering core Python concepts, data structures, object-oriented programming, and advanced topics such as file handling, APIs, and performance optimization. The instructor will also introduce students to machine learning concepts and guide them through hands-on projects including data preprocessing, model building, evaluation, and deployment. The ideal candidate should be able to simplify complex concepts, mentor students, and help them build industry-ready skills through real-world applications.",
     "responsibilities": [
-      "Teach C programming fundamentals.",
-      "Conduct coding exercises and beginner projects.",
-      "Build student problem-solving skills."
+      "Teach Python programming from scratch including syntax, control structures, functions, and modules",
+      "Explain data structures, algorithms, and object-oriented programming in Python",
+      "Cover advanced topics such as file handling, exception handling, APIs, and libraries",
+      "Introduce machine learning concepts including supervised and unsupervised learning",
+      "Guide students in implementing ML models using libraries like NumPy, Pandas, Scikit-learn, and TensorFlow/PyTorch",
+      "Design and mentor hands-on projects such as classification, regression, and data analysis tasks",
+      "Provide assignments, evaluate student progress, and give constructive feedback",
+      "Assist students in debugging code and improving problem-solving skills",
+      "Stay updated with latest industry trends in Python and machine learning",
+      "Help students build portfolios and prepare for technical interviews"
     ]
   },
   {
     "id": "140600001",
-    "heading": "Teaching & Education Core",
-    "title": "Core Java Instructor",
-    "location": "Remote / Hybrid",
-    "type": "Part-time / Full-time",
+    "heading": "Advanced Java Programming Instructor",
+    "title": "Java Trainer (Core to Advanced & Enterprise Development)",
+    "location": "Remote",
+    "type": "Part-time / Contract",
     "status": "Actively hiring",
     "postedAt": "2026-05-01T08:00:00Z",
-    "shortDesc": "Teach Core Java concepts including OOP and real-world applications.",
-    "longDesc": "Responsible for teaching Java programming with focus on OOP, collections, multithreading, and backend fundamentals.",
+    "shortDesc": "Teach Core Java to Advanced Java including frameworks and real-world backend development projects.",
+    "longDesc": "We are seeking an experienced Java Instructor who can teach Core Java fundamentals and advance learners toward enterprise-level development. The role includes covering object-oriented programming, data structures, multithreading, exception handling, collections framework, and JVM internals. The instructor will also train students in advanced Java technologies such as JDBC, Servlets, JSP, Spring Boot, and RESTful API development. The goal is to prepare students for backend engineering roles through structured learning and hands-on project development using real-world scenarios.",
     "responsibilities": [
-      "Teach Core Java and OOP concepts.",
-      "Conduct coding assignments and evaluations.",
-      "Guide students in Java-based mini projects."
+      "Teach Core Java concepts including syntax, OOP principles, and memory management",
+      "Explain advanced topics like multithreading, concurrency, collections, and exception handling",
+      "Train students in JDBC, Servlets, JSP, and enterprise Java development",
+      "Introduce Spring Framework and Spring Boot for backend development",
+      "Guide students in building RESTful APIs and backend systems",
+      "Design real-world projects such as e-commerce backend, authentication systems, and CRUD applications",
+      "Provide coding assignments, assessments, and project reviews",
+      "Help students debug complex Java applications and optimize performance",
+      "Prepare students for backend developer interviews and industry roles",
+      "Stay updated with modern Java ecosystem tools and best practices"
     ]
   },
   {
     "id": "140600002",
-    "heading": "Teaching & Education Core",
-    "title": "Python with ML Instructor",
-    "location": "Remote / Hybrid",
-    "type": "Part-time / Full-time",
+    "heading": "Spring Boot Backend Development Instructor",
+    "title": "Spring Boot & Microservices Trainer",
+    "location": "Remote",
+    "type": "Part-time / Contract",
     "status": "Actively hiring",
     "postedAt": "2026-05-01T08:00:00Z",
-    "shortDesc": "Teach Python programming and Machine Learning fundamentals.",
-    "longDesc": "You will teach Python from basics to advanced ML concepts including data preprocessing, model building, and evaluation techniques.",
+    "shortDesc": "Teach Spring Boot from basics to advanced backend development including microservices and REST APIs.",
+    "longDesc": "We are looking for an experienced Spring Boot instructor who can train students in modern backend development using Java and Spring ecosystem. The role involves teaching Spring Core, Spring Boot, Spring MVC, Spring Data JPA, and building scalable RESTful APIs. The instructor will also cover database integration, authentication and authorization (JWT, Spring Security), and microservices architecture. The goal is to equip learners with industry-ready backend development skills through practical, project-based learning using real-world applications and deployment strategies.",
     "responsibilities": [
-      "Teach Python programming and ML concepts.",
-      "Guide students through ML projects.",
-      "Explain real-world data science applications."
+      "Teach Spring Core concepts including Dependency Injection and Inversion of Control",
+      "Train students in Spring Boot application development from setup to deployment",
+      "Explain REST API design and implementation using Spring MVC",
+      "Cover Spring Data JPA and database integration with MySQL/PostgreSQL",
+      "Teach Spring Security including authentication and JWT-based authorization",
+      "Introduce microservices architecture and inter-service communication",
+      "Guide students in building real-world projects like e-commerce and user management systems",
+      "Provide hands-on coding exercises and project-based assignments",
+      "Help students debug backend applications and improve performance",
+      "Prepare learners for backend developer interviews and industry standards"
     ]
   },
   {
     "id": "140600003",
-    "heading": "Teaching & Education Core",
-    "title": "DSA using Java Instructor",
-    "location": "Remote / Hybrid",
-    "type": "Part-time / Full-time",
+    "heading": "React Frontend Development Instructor",
+    "title": "React.js (Frontend Development) Trainer",
+    "location": "Remote",
+    "type": "Part-time / Contract",
     "status": "Actively hiring",
     "postedAt": "2026-05-01T08:00:00Z",
-    "shortDesc": "Teach Data Structures and Algorithms using Java.",
-    "longDesc": "Focus on problem-solving, competitive programming, and DSA concepts using Java with real interview-level questions.",
+    "shortDesc": "Teach React.js from basics to advanced frontend development with real-world project building.",
+    "longDesc": "We are looking for a skilled React instructor who can teach frontend development using modern JavaScript and React ecosystem. The role involves guiding students from foundational concepts like HTML, CSS, and JavaScript to advanced React topics including components, hooks, state management, routing, and performance optimization. The instructor will also cover API integration, Redux or Context API, and best practices for building scalable and responsive web applications. The goal is to prepare students for frontend developer roles through hands-on projects and real-world UI development scenarios.",
     "responsibilities": [
-      "Teach Data Structures and Algorithms.",
-      "Conduct problem-solving sessions.",
-      "Prepare students for coding interviews."
-    ]
-  },
-  {
-    "id": "140600004",
-    "heading": "Teaching & Education Core",
-    "title": "HTML & CSS Instructor",
-    "location": "Remote / Hybrid",
-    "type": "Part-time",
-    "status": "Actively hiring",
-    "postedAt": "2026-05-01T08:00:00Z",
-    "shortDesc": "Teach web design fundamentals using HTML and CSS.",
-    "longDesc": "Responsible for teaching structure, styling, and responsive web design principles for beginners.",
-    "responsibilities": [
-      "Teach HTML structure and CSS styling.",
-      "Build responsive UI projects.",
-      "Guide students in web design basics."
-    ]
-  },
-  {
-    "id": "140600005",
-    "heading": "Teaching & Education Core",
-    "title": "JavaScript Instructor",
-    "location": "Remote / Hybrid",
-    "type": "Part-time / Full-time",
-    "status": "Actively hiring",
-    "postedAt": "2026-05-01T08:00:00Z",
-    "shortDesc": "Teach JavaScript fundamentals and modern ES6+ concepts.",
-    "longDesc": "Covers JavaScript basics to advanced concepts including DOM, async programming, and APIs.",
-    "responsibilities": [
-      "Teach JavaScript fundamentals.",
-      "Guide DOM manipulation and async programming.",
-      "Conduct project-based learning sessions."
+      "Teach core frontend fundamentals including HTML, CSS, and JavaScript",
+      "Explain React fundamentals including components, props, and state",
+      "Train students in React Hooks such as useState, useEffect, and custom hooks",
+      "Teach routing using React Router for multi-page applications",
+      "Guide state management using Context API and Redux",
+      "Integrate REST APIs and handle asynchronous data in React applications",
+      "Help students build real-world projects like dashboards, e-commerce UI, and social apps",
+      "Focus on responsive design and modern UI/UX best practices",
+      "Provide coding assignments, code reviews, and debugging support",
+      "Prepare students for frontend interviews and industry-ready development skills"
     ]
   }
 ]
