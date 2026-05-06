@@ -46,21 +46,5 @@
       "Integrate location-based services and real-time data synchronization.",
       "Ensure offline-first capabilities and smooth performance across devices."
     ]
-  },
-  {
-    "id": "2901004",
-    "heading": "Visual Excellence",
-    "title": "Frontend Developer (React.js)",
-    "location": "Remote",
-    "type": "Full-time",
-    "status": "Actively hiring",
-    "postedAt": "2026-04-30T11:45:00Z",
-    "shortDesc": "Craft premium, glassmorphic interfaces for specialized client solutions...",
-    "longDesc": "We are seeking Frontend experts who prioritize UI/UX excellence. You will be responsible for implementing the 'Apple-feel' across all MCG client portals and internal dashboards.",
-    "responsibilities": [
-      "Translate complex design mockups into clean, performant React components.",
-      "Maintain a consistent, minimalist aesthetic across multiple client projects.",
-      "Optimize web applications for maximum speed and scalability."
-    ]
   }
 ]
