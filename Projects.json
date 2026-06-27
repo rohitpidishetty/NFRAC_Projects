@@ -3843,6 +3843,63 @@
         "Images/p20c4.png"
       ],
       "description": "A mobile-first social media platform (Yaari Android app) for sharing photos, videos, and stories, enabling real-time chat, calls, and community interaction with features like feeds, likes, comments, and content discovery in a secure and engaging environment."
-    }
+    },
+     "project-11": {
+      "link": "https://github.com/rohitpidishetty/FileKit",
+      "image": "https://github.com/rohitpidishetty/FileKit/blob/main/FileKit.png?raw=true",
+      "title": "11. FileKit",
+      "domain": [
+        "filekit",
+  "filesystem",
+  "filemanager",
+  "filemanagement",
+  "directory",
+  "folder",
+  "file",
+  "storage",
+  "diskusage",
+  "spaceanalyzer",
+  "filesize",
+  "directorysize",
+  "recursive",
+  "scan",
+  "analyzer",
+  "organizer",
+  "sorting",
+  "extension",
+  "fileextension",
+  "grouping",
+  "cleanup",
+  "automation",
+  "cli",
+  "commandline",
+  "terminal",
+  "console",
+  "productivity",
+  "utility",
+  "toolkit",
+  "fileoperations",
+  "directorymanagement",
+  "storageanalysis",
+  "filesystemanalysis",
+  "fileexplorer",
+  "path",
+  "metadata",
+  "crossplatform",
+  "opensource",
+  "java",
+  "systemutility",
+  "fileorganization",
+  "modular",
+  "extensible"
+      ],
+      "relatedImages": [
+        "Images/p20c1.png",
+        "Images/p20c2.png",
+        "Images/p20c3.png",
+        "Images/p20c4.png"
+      ],
+      "description": "FileKit is a command-line utility for performing common filesystem operations. It provides a modular framework for analyzing, organizing, and managing files and directories with an emphasis on simplicity, performance, and extensibility. The project currently includes utilities for recursive file and directory size analysis and file organization by extension. Its architecture is designed to accommodate additional filesystem capabilities while maintaining a consistent command-line interface."
+     }
   }
 }
