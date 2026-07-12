@@ -1,0 +1,82 @@
+[
+  {
+    "id": "size",
+    "title": "Size",
+    "description": "Calculate file or folder size",
+    "icon": "◫",
+    "category": "Storage",
+    "command": "java -jar FileKit.jar -size \"C:\\Users\\Rohit\\Desktop\" -gb"
+  },
+  {
+    "id": "tree",
+    "title": "Tree",
+    "description": "Visualize directory structure",
+    "icon": "⌘",
+    "category": "Analysis",
+    "command": "java -jar FileKit.jar -tree \"C:\\Users\\Rohit\\Folder\""
+  },
+  {
+    "id": "top",
+    "title": "Top Files",
+    "description": "Find the largest files quickly",
+    "icon": "↗",
+    "category": "Storage",
+    "command": "java -jar FileKit.jar -top 5 \"C:\\Users\\Rohit\\Folder\" -m"
+  },
+  {
+    "id": "segment",
+    "title": "Segment",
+    "description": "Organize files into categories",
+    "icon": "▦",
+    "category": "Organization",
+    "command": "java -jar FileKit.jar -seg \"C:\\Users\\Rohit\\Downloads\" \"C:\\Users\\Rohit\\SortedFiles\""
+  },
+  {
+    "id": "remove-empty",
+    "title": "Remove Empty",
+    "description": "Delete empty directories safely",
+    "icon": "−",
+    "category": "Cleanup",
+    "command": "java -jar FileKit.jar -rmdf \"C:\\Users\\Rohit\\Folder\""
+  },
+  {
+    "id": "move",
+    "title": "Move",
+    "description": "Move files to another folder",
+    "icon": "→",
+    "category": "Organization",
+    "command": "java -jar FileKit.jar -mv \"C:\\Users\\Rohit\\Desktop\\a.exe\" \"C:\\Users\\Rohit\\Desktop\\Folder\""
+  },
+  {
+    "id": "create",
+    "title": "Create",
+    "description": "Create a new file instantly",
+    "icon": "+",
+    "category": "File",
+    "command": "java -jar FileKit.jar -create \"file.txt\" \"C:\\Users\\Rohit\\Desktop\\Folder\""
+  },
+  {
+    "id": "properties",
+    "title": "Properties",
+    "description": "Inspect detailed file metadata",
+    "icon": "ⓘ",
+    "category": "Analysis",
+    "command": "java -jar FileKit.jar -props \"C:\\Users\\Rohit\\Desktop\\Folder\\file.txt\""
+  },
+  {
+    "id": "squash",
+    "title": "Squash",
+    "description": "Compress files efficiently",
+    "icon": "◇",
+    "category": "Compression",
+    "command": "java -jar FileKit.jar -squash \"C:\\Users\\Rohit\\Desktop\\Folder\\file.txt\" \"squashed\""
+  },
+  {
+    "id": "desquash",
+    "title": "DeSquash",
+    "description": "Extract compressed archives",
+    "icon": "□",
+    "category": "Compression",
+    "command": "java -jar FileKit.jar -desquash \"C:\\Users\\Rohit\\Desktop\\Folder\\squashed.tar.sq\""
+  }
+]
