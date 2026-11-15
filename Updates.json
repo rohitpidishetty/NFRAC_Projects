@@ -1,6 +1,11 @@
 {
   "news" : [
-     {
+    {
+      "date": "15-11-2026",
+      "title": "Introducing Project Aditi | An Open-Source Operating System Research Initiative by NFRAC.",
+      "link": ""
+    },
+    {
       "date": "29-01-2026",
       "title": "EdFlix Is Here | Learning Reimagined for India, EdFlix is officially launched.",
       "link": "https://edflix-ittacademy.web.app/"
