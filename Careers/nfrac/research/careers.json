@@ -62,5 +62,23 @@
       "Optimize computational efficiency for large-scale systems.",
       "Work on graph theory, optimization, and complexity problems."
     ]
-  }
+  },
+  {
+    "id": "300400104",
+    "heading": "Research & Development Core",
+    "title": "Operating Systems Researcher",
+    "location": "Remote / Hybrid / Lab",
+    "type": "Full-time / Research",
+    "status": "Actively hiring",
+    "postedAt": "2026-11-15T08:00:00Z",
+    "shortDesc": "Research and develop operating system kernels, low-level architectures, and efficient system-level technologies.",
+    "longDesc": "You will explore operating system design, kernel architectures, memory management, process scheduling, and hardware interactions while contributing to the research and development of AditiOS. Focus on building secure, scalable, and high-performance operating systems from the ground up.",
+    "responsibilities": [
+        "Research and develop operating system kernels and core subsystems.",
+        "Design and optimize memory management, process scheduling, and concurrency.",
+        "Explore hardware abstraction, interrupt handling, and device drivers.",
+        "Improve kernel performance, security, stability, and resource efficiency.",
+        "Experiment with modern OS architectures and low-level system programming."
+      ]
+    }
 ]
