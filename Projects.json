@@ -2296,9 +2296,7 @@
         "thrift",
         "track",
         "tracker",
-        "money",
-        "client",
-        "clients"
+        "money"
       ],
       "relatedImages": [
         "Images/sample.png"
